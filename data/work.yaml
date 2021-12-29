@@ -1,0 +1,42 @@
+---
+- title: Research Scientist
+  affiliation: Singapore Management University
+  url: https://www.smu.edu.sg/
+  city: Singapore
+  country: Singapore
+  begin:
+    month: Dec
+    year: 2021
+- title: Software Developer
+  affiliation: Kyung Hee University Medical Center
+  url: https://www.khmc.or.kr/kr/main.do
+  city: Seoul
+  country: South Korea
+  begin:
+    month: May.
+    year: 2014
+  end:
+    month: Feb.
+    year: 2015
+- title: Research Intern
+  affiliation: NLP lab. at Chungbuk National University
+  url: https://cbnu.pagaloo.com/d/ac.kr/nlp
+  city: Cheongju
+  country: South Korea
+  begin:
+    month: Feb.
+    year: 2013
+  end:
+    month: Mar.
+    year: 2014
+- title: Sergeant
+  affiliation: Department of Defense, Korean Army
+  city: Seongnam
+  country: South Korea
+  begin:
+    month: May.
+    year: 2008
+  end:
+    month: Apr.
+    year: 2010
+

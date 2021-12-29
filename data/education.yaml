@@ -1,0 +1,37 @@
+---
+- degree: PhD
+  department: Computer Science
+  school: University of Luxembourg
+  schoolUrl: https://wwwen.uni.lu/
+  period: Aug. 2017 ~ Dec. 2021
+  thesis: Steps Towards Semantic Code Search
+  supervisor:
+    - name: Prof. Tegawendé F. Bissyandé
+      homepage: https://bissyande.github.io/
+      note: first supervisor
+    - name: Prof. Dongsun Kim
+      homepage: https://www.darkrsw.net/
+      note: co-second supervisor
+    - name: Prof. Yves Le Traon
+      homepage: https://wwwfr.uni.lu/snt/people/yves_le_traon
+      note: co-second supervisor
+    - name: Prof. Jacques Klein
+      homepage: https://jacquesklein2302.github.io/
+      note: co-second supervisor
+- degree: M.Eng.
+  department: Computer Engineering
+  school: Chungbuk National University (CBNU)
+  schoolUrl: https://www.cbnu.ac.kr/site/english/main.do
+  period: Mar. 2015 ~ Feb. 2017
+  thesis: Source Code Search for Semantically Similar Functionalities
+  supervisor:
+    - name: Prof. Woosung Jung
+      homepage: https://scholar.google.com.hk/citations?user=U7Tc7gEAAAAJ&hl=en
+- degree: B.Eng.
+  department: Computer Engineering
+  school: Chungbuk National University (CBNU)
+  schoolUrl: https://www.cbnu.ac.kr/site/english/main.do
+  period: Mar. 2007 ~ Feb. 2014
+  supervisor:
+    - name: Prof. Younghoon Seo
+      homepage: https://computer.chungbuk.ac.kr/schSystem/index.php?mode=cyberpage&view=1&userID=yhseo

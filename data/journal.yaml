@@ -1,0 +1,101 @@
+---
+- id: Yang2021
+  DOI: https://doi.org/10.1007/s10664-021-10003-7
+  author:
+    - family: Yang 
+      given: Deheng
+    - family: Liu
+      given: Kui
+    - family: Kim
+      given: Dongsun
+    - family: Koyuncu
+      given: Anil
+    - family: Kim
+      given: Kisub
+    - family: Tian
+      given: Haoye
+    - family: Lei
+      given: Yan
+    - family: Mao
+      given: Xiaoguang
+    - family: Klein
+      given: Jacques
+    - family: Bissyandé
+      given: Tegawendé F.
+  journal: Empirical Software Engineering (EMSE)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/EMSE2021.pdf
+  issue: "6"
+  year: 2021
+  pages: 1-33
+  title: Where were the Repair Ingredients for Defects4j Bugs?
+  volume: "26"
+
+- id: Sirres18
+  DOI: https://doi.org/10.1145/3180155.3182513
+  author:
+    - family: Sirres
+      given: Raphael
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Kim
+      given: Dongsun
+    - family: Lo
+      given: David
+    - family: Klein
+      given: Jacques
+    - family: Kim
+      given: Kisub
+    - family: Yves Le
+      given: Traon
+  journal: Empirical Software Engineering (EMSE)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/EMSE2018.pdf
+  issue: "5"
+  year: 2018
+  pages: 2622-2654
+  title: Augmenting and Structuring User Queries to Support Efficient Free-Form Code Search
+  volume: "23"
+
+- id: Lee2017
+  DOI: https://doi.org/10.3837/tiis.2017.02.035
+  author:
+    - family: Lee
+      given: Jaekwon
+    - family: Kim
+      given: Kisub
+    - family: Lee
+      given: Yonghyeon
+    - family: Hong
+      given: Jang-Eui
+    - family: Seo
+      given: Young-Hoon
+    - family: Yang
+      given: Byung-Do
+    - family: Jung
+      given: Woosung
+  journal: KSII Transactions on Internet and Information Systems (KSII)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/KSII2017.pdf
+  issue: "2"
+  year: 2017
+  page: 1234-1249
+  title: Extracting the Source Code Context to Predict Import Changes using GPES
+  volume: "11"
+
+- id: Lee2016
+  DOI: 10.9708/jksci.2016.21.8.065
+  author:
+    - family: Lee
+      given: Yonghyeon
+    - family: Kim
+      given: Kisub
+    - family: Lee
+      given: Jaekwon
+    - family: Jung
+      given: Woosung
+  journal: Journal of The Korea Society of Computer and Information (KSCI)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/KSCI2016.pdf
+  issue: "9"
+  year: 2016
+  page: 65-75
+  title: Design and Implementation of a Data Extraction Tool for Analyzing Software Changes
+  volume: "21"
+
