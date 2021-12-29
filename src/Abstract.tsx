@@ -45,7 +45,7 @@ function Abstract() {
           <a href="https://www.khmc.or.kr/">
             Kyung Hee University Hospital
           </a>{" "}
-          as a developer. He received his MPhil. at the{" "}
+          as a developer. He received his M.Eng. at the{" "}
           <a href="http://www.chungbuk.ac.kr">
             Chungbuk National University
           </a>{" "}
