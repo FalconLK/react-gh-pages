@@ -1,0 +1,156 @@
+---
+- id: Liu2020
+  DOI: https://doi.org/10.1145/3377811.3380338
+  author:
+    - family: Liu
+      given: Kui
+    - family: Wang
+      given: Shangwen
+    - family: Koyuncu
+      given: Anil
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Kim
+      given: Dongsun
+    - family: Wu
+      given: Peng
+    - family: Klein
+      given: Jacques
+    - family: Mao
+      given: Xiaoguang
+    - family: Traon
+      given: Yves Le
+  booktitle: Proceedings of the 42th International Conference on Software Engineering (ICSE)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/ICSE2020.pdf
+  year: 2020
+  serires: ICSE
+  title: On the Efficiency of Test Suite based Program Repair - A Systematic Assessment of 16 Automated Repair Systems for Java Programs
+
+- id: Liu2019
+  DOI: https://doi.org/10.1109/ICSE.2019.00019
+  author:
+    - family: Liu
+      given: Kui
+    - family: Kim
+      given: Dongsun
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Kim
+      given: Taeyoung
+    - family: Kim
+      given: Kisub
+    - family: Koyuncu
+      given: Anil
+    - family: Kim
+      given: Suntae
+    - family: Traon
+      given: Yves Le
+  booktitle: Proceedings of the 41th International Conference on Software Engineering (ICSE)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/ICSE2019.pdf
+  year: 2019
+  title: Learning to spot and refactor inconsistent method names
+
+- id: Kim2018
+  DOI: https://doi.org/10.1145/3180155.3180187
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Kim
+      given: Dongsun
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Choi
+      given: Eunjong
+    - family: Li
+      given: Li
+    - family: Klein
+      given: Jacques
+    - family: Traon
+      given: Yves Le
+  booktitle: Proceedings of the 40th International Conference on Software Engineering (ICSE)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/ICSE2018.pdf
+  site: https://github.com/FalconLK/facoy
+  year: 2018
+  title: FaCoY - A Code-to-Code Search Engine
+
+- id: Liu2018
+  DOI: https://doi.org/10.1109/APSEC.2018.00085
+  author:
+    - family: Liu
+      given: Kui
+    - family: Kim
+      given: Dongsun
+    - family: Li
+      given: Li
+    - family: Koyuncu
+      given: Anil
+    - family: Kim
+      given: Kisub
+    - family: Bissyandé
+      given: Tegawendé F.
+  booktitle: Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/APSEC2018.pdf
+  year: 2018
+  title: Live Search of Fix Ingredients for Automated Program Repair
+
+- id: Lee2016
+  DOI: https://doi.org/10.1007/978-981-10-3023-9_142
+  author:
+    - family: Lee
+      given: Jaekwon
+    - family: Kim
+      given: Kisub
+    - family: Jung
+      given: Woosung
+  booktitle: Proceedings of the 11th KIPS International Conference on Ubiquitous Information Technologies and Applications (CUTE)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/CUTE2016.pdf
+  year: 2016
+  title: A Distributed Survey Automation Based on a Customizable Form Template
+
+- id: Lee2016_apic
+  DOI: https://doi.org/10.3837/tiis.2017.02.035
+  author:
+    - family: Lee
+      given: Jaekwon
+    - family: Lee
+      given: Yonghyeon
+    - family: Kim
+      given: Kisub
+    - family: Hong
+      given: Jang-Eui
+    - family: Jung
+      given: Woosung
+  booktitle: Proceedings of the 11th Asia Pacific International Conference on Information Science and Technology (APIC-IST)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/APIC2016.pdf
+  year: 2016
+  title: GEPS - Supporting Source Code Analysis by Extracting the Evolutionary History of Software Structure and Quality
+
+- id: Lee2016_kcse
+  DOI: 
+  author:
+    - family: Lee
+      given: Jaekwon
+    - family: Kim
+      given: Kisub
+    - family: Jung
+      given: Woosung
+  booktitle: Proceedings of the 18th Korea Conference on Software Engineering (KCSE)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/KCSE2016.pdf
+  year: 2016
+  title: Identifying a Component Co-usability using Similarity Metric
+
+- id: Lee2015
+  DOI: 
+  author:
+    - family: Lee
+      given: Yonghyeon
+    - family: Lee
+      given: Jaekwon
+    - family: Kim
+      given: Kisub
+    - family: Jung
+      given: Woosung
+  booktitle: Proceedings of the Korean Society of Computer Information Conference (KSCI)
+  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/KSCI2015.pdf
+  year: 2015
+  title: Analyzing Developer’s Share of Code Based on Abstract Syntax Tree

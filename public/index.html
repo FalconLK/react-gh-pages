@@ -1,15 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <base target="_blank" />
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
+    <!-- Inform the browser that this page supports both dark
+  and light color schemes, and the page author prefers light. -->
+    <meta name="color-scheme" content="light dark" />
+
+    <!-- Meta tag start -->
+    <title>Kisub Kim</title>
+    <meta name="author" content="YOUR_NAME" />
+
+    <!--Please check https://ogp.me/ for the open graph -->
+    <meta property="og:title" content="YOUR_NAME" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="YOUR_WEBSITE_URL" />
     <meta
-      name="description"
-      content="Web site created using create-react-app"
+      property="og:image"
+      content="URL_OF_REPRESENTATIVE IMAGE OF YOUR WEBSITE"
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <meta property="og:description" content="DESCRIPTION_FOR_YOURSELF" />
+    <!-- End of meta tag -->
+
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -24,7 +37,6 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>

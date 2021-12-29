@@ -1,0 +1,19 @@
+---
+- id: Kim2021_thesis
+  author:
+    - family: Kim
+      given: Kisub
+  year: 2021
+  month: July
+  school: University College London
+  title: Steps Towards Semantic Code Search
+  type: thesis
+- id: Kim2016_thesis
+  author:
+    - family: Kim
+      given: Kisub
+  year: 2016
+  month: Dec.
+  school: Chungbuk National University
+  title: Source Code Search for Semantically Similar Functionalities
+  type: thesis
