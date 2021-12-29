@@ -69,7 +69,7 @@ function CV() {
         <FontAwesomeIcon icon={faUser} /> Curriculum Vitae
       </h3>
       <Button
-        href="https://github.com/FalconLK/react-gh-pages/CV.pdf"
+        href="https://github.com/FalconLK/react-gh-pages/blob/master/CV.pdf"
         variant="outline-success"
       >
         <FontAwesomeIcon icon={faFile} /> View my CV

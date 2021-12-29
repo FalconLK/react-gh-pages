@@ -58,7 +58,7 @@ function Abstract() {
           <a href="http://cybertec.jejunu.ac.kr/profile.html">
             Prof. Dr. Younghun Seo
           </a>
-          . His main research interests are Code Search and mostly Applying Artifical Intelligence for
+          . His main research interests are Code Search and mostly applying techniques related to the Artifical Intelligence for
           software engineering.
         </Col>
       </Row>
