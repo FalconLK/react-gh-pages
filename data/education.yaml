@@ -3,7 +3,7 @@
   department: Computer Science
   school: University of Luxembourg
   schoolUrl: https://wwwen.uni.lu/
-  period: Aug. 2017 ~ Dec. 2021
+  period: Aug. 2017 ~ Jul. 2021
   thesis: Steps Towards Semantic Code Search
   supervisor:
     - name: Prof. Tegawendé F. Bissyandé
@@ -18,6 +18,10 @@
     - name: Prof. Jacques Klein
       homepage: https://jacquesklein2302.github.io/
       note: co-second supervisor
+  collaborator:
+    - name: Kui Liu
+      homepage: https://kui-liu.github.io/
+      note: Huawei (Software Engineering Application Technology Lab.)
 - degree: M.Eng.
   department: Computer Engineering
   school: Chungbuk National University (CBNU)
