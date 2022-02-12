@@ -27,7 +27,7 @@ function Contact() {
       <h3>
         <FontAwesomeIcon icon={faInbox} /> Contact
       </h3>
-      <h4>Work: akisubki{`m [at] s`}mu.edu.sg</h4>
+      <h4>Work: kisubkim{` [at] `}smu.edu.sg</h4>
       <h4>Personal: falconlk00{` [at] `}gmail.com</h4>
       <Button href="https://github.com/FalconLK" variant="outline-info">
         <FontAwesomeIcon icon={faGithub} /> Github
@@ -51,8 +51,10 @@ function BibliographicProfiles() {
       <Button href="https://dblp.org/pid/216/3065.html" variant="outline-success">
         <i className="ai ai-dblp" /> DBLP
       </Button>{" "}
-      <Button href="https://academic.microsoft.com/author/2794526229/publication/search?q=Kisub%20Kim&qe=Composite(AA.AuId%253D2794526229)&f=&orderBy=0&paperId=2795013376" variant="outline-success">
-        <FontAwesomeIcon icon={faMicrosoft} /> Microsoft Academic
+      /**
+      *<Button href="https://academic.microsoft.com/author/2794526229/publication/search?q=Kisub%20Kim&qe=Composite(AA.AuId%253D2794526229)&f=&orderBy=0&paperId=2795013376" variant="outline-success">
+      *  <FontAwesomeIcon icon={faMicrosoft} /> Microsoft Academic
+      */
       </Button>{" "}
       <Button href="https://orcid.org/0000-0002-4462-6916" variant="outline-success">
         <i className="ai ai-orcid" /> ORCID
