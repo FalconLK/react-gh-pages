@@ -23,7 +23,7 @@
     - family: Bissyandé
       given: Tegawendé F.
   journal: Empirical Software Engineering (EMSE)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/EMSE2021.pdf
+  pdf: https://orbilu.uni.lu/bitstream/10993/49399/1/2021-EMSE-WhereTheIngredients.pdf
   issue: "6"
   year: 2021
   pages: 1-33
@@ -48,7 +48,7 @@
     - family: Yves Le
       given: Traon
   journal: Empirical Software Engineering (EMSE)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/EMSE2018.pdf
+  pdf: https://link-springer-com.libproxy.smu.edu.sg/content/pdf/10.1007/s10664-017-9544-y.pdf
   issue: "5"
   year: 2018
   pages: 2622-2654
@@ -73,7 +73,7 @@
     - family: Jung
       given: Woosung
   journal: KSII Transactions on Internet and Information Systems (KSII)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/KSII2017.pdf
+  pdf: https://www.koreascience.or.kr/article/JAKO201711656709750.pdf
   issue: "2"
   year: 2017
   page: 1234-1249
@@ -92,7 +92,7 @@
     - family: Jung
       given: Woosung
   journal: Journal of The Korea Society of Computer and Information (KSCI)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/KSCI2016.pdf
+  pdf: https://www.koreascience.or.kr/article/JAKO201626360541481.pdf
   issue: "9"
   year: 2016
   page: 65-75
