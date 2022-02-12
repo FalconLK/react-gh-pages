@@ -21,7 +21,7 @@
     - family: Traon
       given: Yves Le
   booktitle: Proceedings of the 42th International Conference on Software Engineering (ICSE)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/ICSE2020.pdf
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3377811.3380338?casa_token=D7iJCo2XXT8AAAAA:ah3Rg61ERnRjzCvkv-jjD1RMERy3hRd6jNhZuVFQvUytzAA-zX_payAG-iFeKBzzBMwk_28IssSvoGg
   year: 2020
   serires: ICSE
   title: On the Efficiency of Test Suite based Program Repair - A Systematic Assessment of 16 Automated Repair Systems for Java Programs
@@ -46,7 +46,7 @@
     - family: Traon
       given: Yves Le
   booktitle: Proceedings of the 41th International Conference on Software Engineering (ICSE)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/ICSE2019.pdf
+  pdf: https://ieeexplore.ieee.org/iel7/8790403/8811891/08812134.pdf?casa_token=L0Jkk84dxo4AAAAA:X-8Mwx2YT7THTGHjXXdoOXNluMvpOj17DkBIgQG-JmIn3nokQRq2glnjXCMfA4YXCW2xxKp8ow
   year: 2019
   title: Learning to spot and refactor inconsistent method names
 
@@ -68,7 +68,7 @@
     - family: Traon
       given: Yves Le
   booktitle: Proceedings of the 40th International Conference on Software Engineering (ICSE)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/ICSE2018.pdf
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3180155.3180187?casa_token=laalMWGT510AAAAA:Nb1YIbCl4BxuD2-snr99prXHVZMFCk4EpxJph0jPfSeDtH-CGtgpWxDdV4D8OHmfZou9G4RnZhaTeO0
   site: https://github.com/FalconLK/facoy
   year: 2018
   title: FaCoY - A Code-to-Code Search Engine
@@ -89,7 +89,7 @@
     - family: Bissyandé
       given: Tegawendé F.
   booktitle: Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/APSEC2018.pdf
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8719533&casa_token=LAwY-E5NVO4AAAAA:E2YtM1LceZ5U-8D2cughCR-jILmLaQg-OOXBWfOb6CTtrQkSGJQnG5RQT3uFpAQ-FqK0XgZALA
   year: 2018
   title: Live Search of Fix Ingredients for Automated Program Repair
 
@@ -103,7 +103,6 @@
     - family: Jung
       given: Woosung
   booktitle: Proceedings of the 11th KIPS International Conference on Ubiquitous Information Technologies and Applications (CUTE)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/CUTE2016.pdf
   year: 2016
   title: A Distributed Survey Automation Based on a Customizable Form Template
 
@@ -121,7 +120,7 @@
     - family: Jung
       given: Woosung
   booktitle: Proceedings of the 11th Asia Pacific International Conference on Information Science and Technology (APIC-IST)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/APIC2016.pdf
+  pdf: https://www.koreascience.or.kr/article/JAKO201711656709750.pdf
   year: 2016
   title: GEPS - Supporting Source Code Analysis by Extracting the Evolutionary History of Software Structure and Quality
 
@@ -135,7 +134,6 @@
     - family: Jung
       given: Woosung
   booktitle: Proceedings of the 18th Korea Conference on Software Engineering (KCSE)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/KCSE2016.pdf
   year: 2016
   title: Identifying a Component Co-usability using Similarity Metric
 
@@ -151,6 +149,6 @@
     - family: Jung
       given: Woosung
   booktitle: Proceedings of the Korean Society of Computer Information Conference (KSCI)
-  pdf: https://github.com/FalconLK/falconlk.github.io/pdf/KSCI2015.pdf
+  pdf: https://www.koreascience.or.kr/article/CFKO201523070247677.pdf
   year: 2015
   title: Analyzing Developer’s Share of Code Based on Abstract Syntax Tree
