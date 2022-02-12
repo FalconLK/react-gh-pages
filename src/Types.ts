@@ -85,6 +85,12 @@ interface Supervisor {
   note?: string;
 }
 
+interface Collaborator {
+  name: string;
+  homepage?: string;
+  note?: string;
+}
+
 interface EducationItem {
   degree: string;
   department: string;
@@ -93,6 +99,7 @@ interface EducationItem {
   period: string;
   thesis?: string;
   supervisor?: Supervisor[];
+  collaborator?: Collaborator[];
 }
 
 export type {

@@ -19,11 +19,11 @@ function Abstract() {
           <a href="https://www.smu.edu.sg">
             Singapore Management University (SMU)
           </a>
-          . He is mainly working on the software engineering applying artificial intelligence under the supervision of{" "}
+          . He is mainly working on software engineering, specifically application of artificial intelligence under the supervision of{" "}
           <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a>.
           Before joining SMU, he was a research associate at the{" "}
           <a href="https://wwwen.uni.lu/">University of Luxembourg</a>. He completed
-          his PhD at the{" "}
+          his Ph.D. at the{" "}
           <a href="https://wwwen.uni.lu/">University of Luxembourg</a> under
           the supervision of{" "}
           <a href="https://bissyande.github.io/">
@@ -33,19 +33,19 @@ function Abstract() {
           <a href="https://www.darkrsw.net/">
             Prof. Dr. Dongsun Kim
           </a>
+          ,{" "}
+          <a href="https://jacquesklein2302.github.io/">
+            Prof. Dr. Jacques Klein
+          </a>
           , and{" "}
           <a href="https://wwwfr.uni.lu/snt/people/yves_le_traon">
             Prof. Dr. Yves Le Traon
-          </a>
-          , and{" "}
-          <a href="https://jacquesklein2302.github.io/">
-            Prof. Dr. Jacques Klein
           </a>
           . He has worked for{" "}
           <a href="https://www.khmc.or.kr/">
             Kyung Hee University Hospital
           </a>{" "}
-          as a developer. He received his M.Eng. at the{" "}
+          as a developer. He received his M.Eng. at {" "}
           <a href="http://www.chungbuk.ac.kr">
             Chungbuk National University
           </a>{" "}
@@ -58,8 +58,7 @@ function Abstract() {
           <a href="http://cybertec.jejunu.ac.kr/profile.html">
             Prof. Dr. Younghun Seo
           </a>
-          . His main research interests are Code Search and mostly applying techniques related to the Artifical Intelligence for
-          software engineering.
+          . His main research domain include code search, bug localization, and code representation.
         </Col>
       </Row>
     </Container>

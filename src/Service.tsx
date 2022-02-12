@@ -26,7 +26,7 @@ function Service() {
   ) : (
     <>
       <h3>
-        <FontAwesomeIcon icon={faLink} /> Service
+        <FontAwesomeIcon icon={faLink} /> Academic Activity
       </h3>
       <ul>
         {service.map((item, i) => {

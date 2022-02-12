@@ -6,23 +6,6 @@ service:
   - title: Student Volunteer
     venue: International Conference on Software Engineering (ICSE)
     date: "2020"
-  - title: Reviewer
-    venue: Empirical Software Engineering (EMSE)
-    date: "2020"
-subreview:
-  - ICSE2021
-  - ASE2021
-  - SANER2020
-  - JSS2020
-  - ICSE2020
-  - ASE2020
-  - ISSTA2019
-  - ICSME2019
-  - ASE2019
-  - SANER2018
-  - ISSTA2018
-  - ICSME2018
-  - ICSE2018
-  - ASE2018
-  - FSE2010
-  - ICSM2010
+  - title: Part of Review Committee
+    venue: ICSE 2021, ASE 2021, EMSE 2020, SANER 2020, JSS 2020, ICSE 2020, ASE 2020, ISSTA 2019, ICSME 2019, ASE 2019, SANER2018, ISSTA 2018, ICSME 2018, ICSE 2018, ASE 2018
+    date: 

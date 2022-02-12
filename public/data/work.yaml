@@ -5,7 +5,18 @@
   city: Singapore
   country: Singapore
   begin:
-    month: Dec
+    month: Dec.
+    year: 2021
+- title: Research Associate
+  affiliation: University of Luxembourg
+  url: https://wwwen.uni.lu/
+  city: Luxembourg
+  country: Luxembourg
+  begin:
+    month: Aug.
+    year: 2021
+  end:
+    month: Oct.
     year: 2021
 - title: Software Developer
   affiliation: Kyung Hee University Medical Center

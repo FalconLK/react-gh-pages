@@ -45,16 +45,11 @@ function BibliographicProfiles() {
       <h3>
         <FontAwesomeIcon icon={faIdBadge} /> Bibliographic Profiles{" "}
       </h3>
-      <Button href="https://scholar.google.com/citations?user=Nr_IDzQAAAAJ&hl=ko" variant="outline-success">
+      <Button href="https://scholar.google.com/citations?user=Nr_IDzQAAAAJ&hl=en" variant="outline-success">
         <i className="ai ai-google-scholar" /> Google Scholar
       </Button>{" "}
       <Button href="https://dblp.org/pid/216/3065.html" variant="outline-success">
         <i className="ai ai-dblp" /> DBLP
-      </Button>{" "}
-      /**
-      *<Button href="https://academic.microsoft.com/author/2794526229/publication/search?q=Kisub%20Kim&qe=Composite(AA.AuId%253D2794526229)&f=&orderBy=0&paperId=2795013376" variant="outline-success">
-      *  <FontAwesomeIcon icon={faMicrosoft} /> Microsoft Academic
-      */
       </Button>{" "}
       <Button href="https://orcid.org/0000-0002-4462-6916" variant="outline-success">
         <i className="ai ai-orcid" /> ORCID

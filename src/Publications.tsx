@@ -72,7 +72,7 @@ function Papers(props: { papers: Paper[] }) {
         {papers.map((item) => {
           return (
             <li key={item.id}>
-              {objToString(item)} {item.site && generateLink(item.site, "SITE")}
+              {objToString(item)} {item.site && generateLink(item.site, "Repo.")}
               {item.pdf && generateLink(`${item.pdf}`, "PDF")}
               {item.DOI && generateLink(`https://doi.org/${item.DOI}`, "DOI")}
               {item.type !== "thesis" && item.type !== "book" && (

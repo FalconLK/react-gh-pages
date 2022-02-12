@@ -5,7 +5,7 @@
       given: Kisub
   year: 2021
   month: July
-  school: University College London
+  school: University of Luxembourg
   title: Steps Towards Semantic Code Search
   type: thesis
 - id: Kim2016_thesis
@@ -15,5 +15,5 @@
   year: 2016
   month: Dec.
   school: Chungbuk National University
-  title: Source Code Search for Semantically Similar Functionalities
+  title: Code Search based on Semantic Similarity
   type: thesis

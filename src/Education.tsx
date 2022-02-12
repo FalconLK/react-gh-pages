@@ -63,6 +63,31 @@ function Education() {
                     </li>
                   </ul>
                 )}
+
+                {item.collaborator && (
+                  <ul>
+                    <li>
+                      {item.collaborator.length < 2
+                        ? "Collaborator"
+                        : "Collaborators"}
+                      :{" "}
+                      {item.collaborator
+                        .map<ReactNode>((item) => {
+                          return item.homepage ? (
+                            <span>
+                              <a href={item.homepage}>{item.name}</a>{" "}
+                              {item.note && `(${item.note})`}
+                            </span>
+                          ) : (
+                            <span>
+                              {item.name} {item.note && `(${item.note})`}
+                            </span>
+                          );
+                        })
+                        .reduce((prev, curr) => [prev, ", ", curr])}
+                    </li>
+                  </ul>
+                )}
               </li>
             );
           })}
