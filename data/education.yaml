@@ -18,10 +18,6 @@
     - name: Prof. Jacques Klein
       homepage: https://jacquesklein2302.github.io/
       note: co-second supervisor
-  collaborator:
-    - name: Kui Liu
-      homepage: https://kui-liu.github.io/
-      note: Software Engineering Application Technology Lab. at Huawei
 - degree: M.Eng.
   department: Computer Engineering
   school: Chungbuk National University (CBNU)
