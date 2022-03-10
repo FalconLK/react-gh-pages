@@ -107,7 +107,7 @@
   title: A Distributed Survey Automation Based on a Customizable Form Template
 
 - id: Lee2016_apic
-  DOI: https://doi.org/10.3837/tiis.2017.02.035
+  DOI: 
   author:
     - family: Lee
       given: Jaekwon
@@ -120,9 +120,9 @@
     - family: Jung
       given: Woosung
   booktitle: Proceedings of the 11th Asia Pacific International Conference on Information Science and Technology (APIC-IST)
-  pdf: https://www.koreascience.or.kr/article/JAKO201711656709750.pdf
+  pdf: 
   year: 2016
-  title: GEPS - Supporting Source Code Analysis by Extracting the Evolutionary History of Software Structure and Quality
+  title: GPES - Supporting Source Code Analysis by Extracting the Evolutionary History of Software Structure and Quality
 
 - id: Lee2016_kcse
   DOI: 
