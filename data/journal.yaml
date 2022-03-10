@@ -1,4 +1,31 @@
 ---
+- id: Kim2022
+  DOI: xxx
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Ghatpande
+      given: Sankalp
+    - family: Liu
+      given: Kui
+    - family: Koyuncu
+      given: Anil
+    - family: Kim
+      given: Dongsun
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+    - family: Yves Le
+      given: Traon
+  journal: The Journal of Software Systems (JSS)
+  pdf: https://xxx.xx.xx/xxx.pdf
+  issue: "xx"
+  year: 2022
+  pages: xx-xx
+  title: DigBug – Pre/Post-processing Operator Selection for Accurate Bug Localization
+  volume: "xx"
+
 - id: Yang2021
   DOI: https://doi.org/10.1007/s10664-021-10003-7
   author:
