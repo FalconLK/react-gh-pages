@@ -21,7 +21,7 @@
     - family: Traon
       given: Yves Le
   booktitle: Proceedings of the 42th International Conference on Software Engineering (ICSE)
-  pdf: https://dl.acm.org/doi/pdf/10.1145/3377811.3380338?casa_token=D7iJCo2XXT8AAAAA:ah3Rg61ERnRjzCvkv-jjD1RMERy3hRd6jNhZuVFQvUytzAA-zX_payAG-iFeKBzzBMwk_28IssSvoGg
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ICSE2020.pdf
   year: 2020
   serires: ICSE
   title: On the Efficiency of Test Suite based Program Repair - A Systematic Assessment of 16 Automated Repair Systems for Java Programs
@@ -46,7 +46,7 @@
     - family: Traon
       given: Yves Le
   booktitle: Proceedings of the 41th International Conference on Software Engineering (ICSE)
-  pdf: https://ieeexplore.ieee.org/iel7/8790403/8811891/08812134.pdf?casa_token=L0Jkk84dxo4AAAAA:X-8Mwx2YT7THTGHjXXdoOXNluMvpOj17DkBIgQG-JmIn3nokQRq2glnjXCMfA4YXCW2xxKp8ow
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ICSE2019.pdf
   year: 2019
   title: Learning to spot and refactor inconsistent method names
 
@@ -68,7 +68,7 @@
     - family: Traon
       given: Yves Le
   booktitle: Proceedings of the 40th International Conference on Software Engineering (ICSE)
-  pdf: https://dl.acm.org/doi/pdf/10.1145/3180155.3180187?casa_token=laalMWGT510AAAAA:Nb1YIbCl4BxuD2-snr99prXHVZMFCk4EpxJph0jPfSeDtH-CGtgpWxDdV4D8OHmfZou9G4RnZhaTeO0
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ICSE2018.pdf
   site: https://github.com/FalconLK/facoy
   year: 2018
   title: FaCoY - A Code-to-Code Search Engine
@@ -91,7 +91,7 @@
   booktitle: Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/APSEC2018.pdf
   year: 2018
-  title: LSRepair":" Live Search of Fix Ingredients for Automated Program Repair
+  title: LSRepair - Live Search of Fix Ingredients for Automated Program Repair
 
 - id: Lee2016
   DOI: https://doi.org/10.1007/978-981-10-3023-9_142
@@ -149,6 +149,6 @@
     - family: Jung
       given: Woosung
   booktitle: Proceedings of the Korean Society of Computer Information Conference (KSCI)
-  pdf: https://www.koreascience.or.kr/article/CFKO201523070247677.pdf
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/KSCI2015.pdf
   year: 2015
   title: Analyzing Developer’s Share of Code Based on Abstract Syntax Tree
