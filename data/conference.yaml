@@ -89,7 +89,7 @@
     - family: Bissyandé
       given: Tegawendé F.
   booktitle: Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC)
-  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8719533&casa_token=LAwY-E5NVO4AAAAA:E2YtM1LceZ5U-8D2cughCR-jILmLaQg-OOXBWfOb6CTtrQkSGJQnG5RQT3uFpAQ-FqK0XgZALA
+  pdf: https://github.com/FalconLK/react-gh-pages/blob/master/pdf/APSEC2018.pdf
   year: 2018
   title: Live Search of Fix Ingredients for Automated Program Repair
 
