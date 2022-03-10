@@ -32,7 +32,7 @@ function Contact() {
       <Button href="https://github.com/FalconLK" variant="outline-info">
         <FontAwesomeIcon icon={faGithub} /> Github
       </Button>{" "}
-      <Button href="https://www.linkedin.com/in/kim-kisub-81199a179" variant="outline-secondary">
+      <Button href="https://www.linkedin.com/in/kisub-kim-81199a179/" variant="outline-secondary">
         <FontAwesomeIcon icon={faLinkedin} /> LinkedIn
       </Button>{" "}
     </>
