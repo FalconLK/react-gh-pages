@@ -1,6 +1,6 @@
 ---
 - id: Kim2022
-  DOI: xxx
+  DOI: https://doi.org/10.1016/j.jss.2022.111300
   author:
     - family: Kim
       given: Kisub
@@ -18,13 +18,13 @@
       given: Jacques
     - family: Yves Le
       given: Traon
-  journal: The Journal of Software Systems (JSS) - [will be appeared soon]
-  pdf: https://xxx.xx.xx/xxx.pdf
+  journal: The Journal of Software Systems (JSS)
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/JSS2022.pdf
   issue: "xx"
   year: 2022
   pages: xx-xx
   title: DigBug – Pre/Post-processing Operator Selection for Accurate Bug Localization
-  volume: "xx"
+  volume: "189"
 
 - id: Yang2021
   DOI: https://doi.org/10.1007/s10664-021-10003-7
