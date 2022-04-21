@@ -48,6 +48,7 @@
   booktitle: Proceedings of the 41th International Conference on Software Engineering (ICSE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ICSE2019.pdf
   year: 2019
+  note: As one of the corresponding authors.
   title: Learning to spot and refactor inconsistent method names
 
 - id: Kim2018
