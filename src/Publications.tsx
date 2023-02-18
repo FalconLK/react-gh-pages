@@ -144,6 +144,7 @@ function Publications() {
         <PaperGroup paperType="journal" />
         <PaperGroup paperType="conference" />
         <PaperGroup paperType="thesis" />
+        <PaperGroup paperType="technical" />
       </>
     </>
   );
