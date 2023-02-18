@@ -14,7 +14,7 @@ function Abstract() {
         </Col>
         <Col>
           <h2>Kisub Kim</h2>
-          <h4>Research Scientist at Singapore Management University</h4>
+          <h4>Research Scientist at Singapore Management University (SMU)</h4>
           I am a research scientist (postdoc) at{" "}
           <a href="https://www.smu.edu.sg">
             Singapore Management University (SMU)
@@ -22,9 +22,8 @@ function Abstract() {
           . My work is mainly related to Software Engineering, broadly source code analysis and, specifically, code search, bug localization, code review, and code representation under the supervision of{" "}
           <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a>.
           Before joining SMU, he was a research associate at the{" "}
-          <a href="https://wwwen.uni.lu/">University of Luxembourg</a>. He completed
-          his Ph.D. at the{" "}
-          <a href="https://wwwen.uni.lu/">University of Luxembourg</a> under
+          <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>. He completed
+          his Ph.D. at the University of Luxembourg under
           the supervision of{" "}
           <a href="https://bissyande.github.io/">
             Prof. Dr. Tegawendé F. BISSYANDE
