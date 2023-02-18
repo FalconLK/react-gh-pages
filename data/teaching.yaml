@@ -1,4 +1,28 @@
 ---
+- title: Research Guidance, Xin Zhou, Ph.D. Student
+  course: Source Code Representation based on Deep Learning Techniques
+  school: Singapore Management University
+  date: Current
+- title: Research Guidance, Ivana Clairine Irsan, Research Engineer
+  course: API Recommendation Systems
+  school: Singapore Management University
+  date: Current
+- title: Research Guidance, Gregory Gao Zhan, Master Student
+  course: Investigation on Imperative Features of Source Code
+  school: Singapore Management University
+  date: Current
+- title: Research Guidance, Qin Shen, Undergraduate Student
+  course: Automatic Program Repair using Deep Learning Techniques
+  school: Singapore Management University
+  date: Current  
+- title: Thesis Guidance, Jaekwon Lee, Ph.D.
+  course: WCET and Priority Assignment Analysis of Real-Time Systems using Search and Machine Learning
+  school: University of Luxembourg
+  date: 2022
+- title: Thesis Guidance, Arthur Sawadogo, Ph.D.
+  course: Overcoming Zero-Day Vulnerabilities in Open Source Softwares - An Automatic Approach based on Development Artifact Analysis
+  school: Université du Québec à Montréal
+  date: 2022
 - title: Guest Lecture (20 students)
   course: Introduction to Semantic Code Search
   school: Sabanci University
