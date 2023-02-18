@@ -1,5 +1,5 @@
-type PaperType = "journal" | "conference" | "thesis" | "technical_report" |  "book";
-type Paper = Journal | Conference | Thesis | Technical_Report | Book;
+type PaperType = "journal" | "conference" | "thesis" | "technical" |  "book";
+type Paper = Journal | Conference | Thesis | Technical | Book;
 
 interface Author {
   family: string;
@@ -42,9 +42,9 @@ interface Conference extends Publication {
   edition?: string;
 }
 
-interface Technical_Report extends Publication {
-  type: "technical_report";
-  technical_report: string;
+interface Technical extends Publication {
+  type: "technical";
+  technical: string;
   volume: string;
 }
 
@@ -116,7 +116,7 @@ export type {
   Publication,
   Journal,
   Conference,
-  Technical_Report,
+  Technical,
   Thesis,
   Book,
   ServiceItem,
