@@ -28,12 +28,12 @@ function Abstract() {
           <a href="https://bissyande.github.io/">
           Prof. Tegawendé F. BISSYANDE
           </a>
-          and  
+          {" "} and {" "}
           <a href="https://www.darkrsw.net/">
           Prof. Dongsun Kim
           </a>
           .
-          My works were presented at major conferences such as International Conference on Software Engineering and published in top journals such as Empirical Software Engineering. 
+          My works were presented at major conferences such as <b>International Conference on Software Engineering</b> and published in top journals such as <b>Empirical Software Engineering</b>. 
           I have served as a reviewer, program committee, and organization committee in various software engineering conferences and journals, such as IEEE Transactions on Software Engineering, Empirical Software Engineering, and IEEE/ACM International Conference on Program Comprehension.
         </Col>
       </Row>
