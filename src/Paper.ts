@@ -29,7 +29,7 @@ function getVenue(item: Paper) {
     case "conference":
       return item.booktitle;
     case "technical":  
-      return item.journal;
+      return item.technical;
     case "thesis":
       return item.school;
     case "book":
