@@ -21,7 +21,7 @@ function TeachingExperience() {
   ) : (
     <>
       <h3>
-        <FontAwesomeIcon icon={faChalkboardTeacher} /> Teaching
+        <FontAwesomeIcon icon={faChalkboardTeacher} /> Teaching and Research Guidance
       </h3>
       <ul>
         {teaching.map((item, i) => {
