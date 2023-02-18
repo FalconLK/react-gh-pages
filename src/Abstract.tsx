@@ -26,7 +26,11 @@ function Abstract() {
           his Ph.D. at the University of Luxembourg under
           the supervision of{" "}
           <a href="https://bissyande.github.io/">
-            Prof. Dr. Tegawendé F. BISSYANDE
+          Prof. Tegawendé F. BISSYANDE
+          </a>
+          and  
+          <a href="https://www.darkrsw.net/">
+          Prof. Dongsun Kim
           </a>
           .
           My works were presented at major conferences such as International Conference on Software Engineering and published in top journals such as Empirical Software Engineering. 
