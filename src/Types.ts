@@ -1,4 +1,4 @@
-type PaperType = "journal" | "conference" | "thesis" | "technical" |  "book";
+type PaperType = "journal" | "conference" | "thesis" | "technical_report" |  "book";
 type Paper = Journal | Conference | Thesis | Technical_Report | Book;
 
 interface Author {
@@ -43,8 +43,8 @@ interface Conference extends Publication {
 }
 
 interface Technical_Report extends Publication {
-  type: "technical";
-  technical: string;
+  type: "technical_report";
+  technical_report: string;
   volume: string;
 }
 

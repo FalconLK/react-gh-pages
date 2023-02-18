@@ -28,8 +28,8 @@ function getVenue(item: Paper) {
       return item.journal;
     case "conference":
       return item.booktitle;
-    case "technical":  
-      return item.technical;
+    case "technical_report":  
+      return item.technical_report;
     case "thesis":
       return item.school;
     case "book":
@@ -53,7 +53,7 @@ ${paperToBibtex(paper)
   .filter((item) => item != null)
   .join(",\n")}
 }`;
-    case "technical":
+    case "technical_report":
       return `@ARTICLE{${paper.id},
 ${paperToBibtex(paper)
   .filter((item) => item != null)
