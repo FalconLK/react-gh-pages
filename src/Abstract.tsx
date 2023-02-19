@@ -33,7 +33,7 @@ function Abstract() {
           Prof. Dongsun Kim
           </a>
           .
-          
+          {"\n"}
           My works were presented at major conferences such as <b>International Conference on Software Engineering</b> and published in top journals such as <b>Empirical Software Engineering</b>. 
           I have served as a reviewer, program committee, and organization committee in various software engineering conferences and journals, such as IEEE Transactions on Software Engineering, Empirical Software Engineering, and IEEE/ACM International Conference on Program Comprehension.
         </Col>
