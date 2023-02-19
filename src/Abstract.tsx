@@ -21,9 +21,9 @@ function Abstract() {
           </a>
           . My work is mainly related to Software Engineering, broadly source code analysis and, specifically, code search, bug localization, code review, and code representation under the supervision of{" "}
           <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a>.
-          Before joining SMU, he was a research associate at the{" "}
-          <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>. He completed
-          his Ph.D. at the University of Luxembourg under
+          Before joining SMU, I was a research associate at the{" "}
+          <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>. I completed
+          my Ph.D. at the University of Luxembourg under
           the supervision of{" "}
           <a href="https://bissyande.github.io/">
           Prof. Tegawendé F. BISSYANDE
@@ -33,6 +33,7 @@ function Abstract() {
           Prof. Dongsun Kim
           </a>
           .
+          
           My works were presented at major conferences such as <b>International Conference on Software Engineering</b> and published in top journals such as <b>Empirical Software Engineering</b>. 
           I have served as a reviewer, program committee, and organization committee in various software engineering conferences and journals, such as IEEE Transactions on Software Engineering, Empirical Software Engineering, and IEEE/ACM International Conference on Program Comprehension.
         </Col>
