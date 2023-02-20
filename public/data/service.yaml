@@ -12,9 +12,6 @@ service:
   - title: Poster Session Curator - SMU side
     venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
     date: "2022"
-  - title: Thesis Reviewer
-    venue: Jaekwon Lee, Ph.D. - University of Luxembourg / Arthur Sawadogo, Ph.D. - Université du Québec à Montréal
-    date: "2022"
   - title: Web Chair
     venue: International Conference on Program Comprehension (ICPC)
     date: "2020"
