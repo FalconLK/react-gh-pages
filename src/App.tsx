@@ -65,7 +65,8 @@ function CV() {
         <FontAwesomeIcon icon={faUser} /> Curriculum Vitae
       </h3>
       <Button
-        href="https://drive.google.com/file/d/1cm4epi7laOQTRDJL4gd5kj8FS26NR9cy/view?usp=sharing"
+        // href="https://drive.google.com/file/d/1cm4epi7laOQTRDJL4gd5kj8FS26NR9cy/view?usp=sharing"
+        href="https://drive.google.com/file/d/18afvDckjXANX1aKX1ljL38fJHFPen4xT/view?usp=share_link"
         variant="outline-success"
       >
         <FontAwesomeIcon icon={faFile} /> View my CV
