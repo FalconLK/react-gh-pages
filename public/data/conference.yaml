@@ -1,5 +1,116 @@
 ---
-- id: Irsan2023
+- id: Kim2023b
+  DOI: 
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Xin
+      given: Zhou
+    - family: Kim
+      given: Dongsun
+    - family: Lee
+      given: Jaekwon
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+    - family: Liu
+      given: Kui
+    - family: Lo
+      given: David
+  booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+  pdf: xxx
+  year: 2023
+  serires: FSE
+  title: Double-blind
+
+- id: Kim2023a
+  DOI: 
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Thung
+      given: Ferdian
+    - family: Zhang
+      given: Ting
+    - family: Clairine Irsan
+      given: Ivana
+    - family: Widyasari
+      given: Ratnadira
+    - family: Yang
+      given: Zhou
+    - family: Lo
+      given: David
+  booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
+  pdf: xxx
+  year: 2023
+  serires: MSR
+  title: Double-blind
+
+- id: Thung2023a
+  DOI: 
+  author:
+    - family: Thung
+      given: Ferdian
+    - family: Kim
+      given: Kisub
+    - family: Zhang
+      given: Ting
+    - family: Clairine Irsan
+      given: Ivana
+    - family: Widyasari
+      given: Ratnadira
+    - family: Yang
+      given: Zhou
+    - family: Lo
+      given: David
+  booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
+  pdf: xxx
+  year: 2023
+  serires: MSR
+  title: Double-blind
+
+- id: Irsan2023b
+  DOI: 
+  author:
+    - family: Irsan
+      given: Ivana Clairine
+    - family: Zhang
+      given: Ting
+    - family: Thung
+      given: Ferdian
+    - family: Kim
+      given: Kisub
+    - family: Lo
+      given: David
+  booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
+  pdf: xxx
+  year: 2023
+  serires: MSR
+  title: Double-blind
+
+- id: Xin2023a
+  DOI: 
+  author:
+    - family: Zhou
+      given: Xin
+    - family: Kim
+      given: Kisub
+    - family: Xu
+      given: Bowen
+    - family: Han
+      given: DongGyun
+    - family: He
+      given: Junda
+    - family: Lo
+      given: David
+  booktitle: The 31st IEEE/ACM International Conference on Program Comprehension (ICPC)
+  pdf: xxx
+  year: 2023
+  serires: ICPC
+  title: Generation-based Code Review Automation - How Far Are We?
+
+- id: Irsan2023a
   DOI: 
   author:
     - family: Irsan
