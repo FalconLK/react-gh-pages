@@ -1,4 +1,87 @@
 ---
+- id: Sun2023
+  DOI: 
+  author:
+    - family: Sun
+      given: Tiezhu
+    - family: Allix
+      given: Kevin
+    - family: Kim
+      given: Kisub
+    - family: Zhou
+      given: Xin
+    - family: Kim
+      given: Dongsun
+    - family: Lo
+      given: David
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+  journal: Transactions on Software Engineering (TSE)
+  pdf: xxx
+  issue: "xx"
+  year: 2023 [Under Review]
+  pages: xx-xx
+  title: A Pre-Trained BERT Model for Android Applications
+  volume: "xx"
+
+- id: Zhou2023
+  DOI: 
+  author:
+    - family: Zhou
+      given: Xin
+    - family: Xu
+      given: Bowen
+    - family: Kim
+      given: Kisub
+    - family: Han
+      given: DongGyun
+    - family: Le Cong
+      given: Thanh
+    - family: He
+      given: Junda
+    - family: Le
+      given: Bach
+    - family: Lo
+      given: David
+  journal: Transactions on Software Engineering (TSE)
+  pdf: xxx
+  issue: "xx"
+  year: 2023 [Under Review]
+  pages: xx-xx
+  title: PatchZero - Zero-Shot Automatic Patch Correctness Assessment
+  volume: "xx"
+
+- id: He2023
+  DOI: 
+  author:
+    - family: He
+      given: Junda
+    - family: Zhou
+      given: Xin
+    - family: Xu
+      given: Bowen
+    - family: Zhang
+      given: Ting
+    - family: Kim
+      given: Kisub
+    - family: Yang
+      given: Zhou
+    - family: Thung
+      given: Ferdian
+    - family: Clairine Irsan
+      given: Ivana
+    - family: Lo
+      given: David
+  journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  pdf: xxx
+  issue: "xx"
+  year: 2023 [Under Review]
+  pages: xx-xx
+  title: Representation Learning for Stack Overflow Posts - How Far are We?
+  volume: "xx"
+
 - id: Kim2022
   DOI: https://doi.org/10.1016/j.jss.2022.111300
   author:
@@ -16,11 +99,11 @@
       given: Tegawendé F.
     - family: Klein
       given: Jacques
-    - family: Yves Le
-      given: Traon
+    - family: Le Traon
+      given: Yves
   journal: The Journal of Software Systems (JSS)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/JSS2022.pdf
-  issue: "xx"
+  issue: "111300"
   year: 2022
   pages: xx-xx
   title: DigBug – Pre/Post-processing Operator Selection for Accurate Bug Localization
@@ -72,8 +155,8 @@
       given: Jacques
     - family: Kim
       given: Kisub
-    - family: Yves Le
-      given: Traon
+    - family: Le Traon
+      given: Yves
   journal: Empirical Software Engineering (EMSE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/EMSE2018.pdf
   issue: "5"
