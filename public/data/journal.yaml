@@ -82,7 +82,34 @@
   title: Representation Learning for Stack Overflow Posts - How Far are We?
   volume: "xx"
 
-- id: Kim2022
+- id: Kim2022b
+  DOI: https://doi.org/10.1016/j.jss.2022.111300
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Ghatpande
+      given: Sankalp
+    - family: Kim
+      given: Dongsun
+    - family: Zhou
+      given: Xin
+    - family: Liu
+      given: Kui
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+    - family: Le Traon
+      given: Yves
+  journal: ACM Computing Surveys (CSUR)
+  pdf: 
+  issue: "xx"
+  year: 2022
+  pages: xx-xx
+  title: Big Code Search: a Bibliography
+  volume: "xx"
+
+- id: Kim2022a
   DOI: https://doi.org/10.1016/j.jss.2022.111300
   author:
     - family: Kim
