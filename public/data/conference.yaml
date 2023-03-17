@@ -24,51 +24,51 @@
   serires: FSE
   title: Double-blind
 
-- id: Kim2023a
-  DOI: 
-  author:
-    - family: Kim
-      given: Kisub
-    - family: Thung
-      given: Ferdian
-    - family: Zhang
-      given: Ting
-    - family: Clairine Irsan
-      given: Ivana
-    - family: Widyasari
-      given: Ratnadira
-    - family: Yang
-      given: Zhou
-    - family: Lo
-      given: David
-  booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
-  pdf: xxx
-  year: 2023 [Under Review]
-  serires: MSR
-  title: Double-blind
+# - id: Kim2023a
+#   DOI: 
+#   author:
+#     - family: Kim
+#       given: Kisub
+#     - family: Thung
+#       given: Ferdian
+#     - family: Zhang
+#       given: Ting
+#     - family: Clairine Irsan
+#       given: Ivana
+#     - family: Widyasari
+#       given: Ratnadira
+#     - family: Yang
+#       given: Zhou
+#     - family: Lo
+#       given: David
+#   booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
+#   pdf: xxx
+#   year: 2023 [Under Review]
+#   serires: MSR
+#   title: Double-blind
 
-- id: Thung2023a
-  DOI: 
-  author:
-    - family: Thung
-      given: Ferdian
-    - family: Kim
-      given: Kisub
-    - family: Zhang
-      given: Ting
-    - family: Clairine Irsan
-      given: Ivana
-    - family: Widyasari
-      given: Ratnadira
-    - family: Yang
-      given: Zhou
-    - family: Lo
-      given: David
-  booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
-  pdf: xxx
-  year: 2023 [Under Review]
-  serires: MSR
-  title: Double-blind
+# - id: Thung2023a
+#   DOI: 
+#   author:
+#     - family: Thung
+#       given: Ferdian
+#     - family: Kim
+#       given: Kisub
+#     - family: Zhang
+#       given: Ting
+#     - family: Clairine Irsan
+#       given: Ivana
+#     - family: Widyasari
+#       given: Ratnadira
+#     - family: Yang
+#       given: Zhou
+#     - family: Lo
+#       given: David
+#   booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
+#   pdf: xxx
+#   year: 2023 [Under Review]
+#   serires: MSR
+#   title: Double-blind
 
 - id: Irsan2023b
   DOI: 
@@ -85,9 +85,9 @@
       given: David
   booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
   pdf: xxx
-  year: 2023 [Under Review]
+  year: 2023
   serires: MSR
-  title: Double-blind
+  title: PICASO - Enhancing API Recommendations with Relevant Stack Overflow Posts
 
 - id: Xin2023a
   DOI: 
