@@ -28,8 +28,8 @@ function getVenue(item: Paper) {
       return item.journal;
     case "conference":
       return item.booktitle;
-    case "technical":  
-      return item.technical;
+    // case "technical":  
+      // return item.technical;
     case "thesis":
       return item.school;
     case "book":
@@ -53,12 +53,12 @@ ${paperToBibtex(paper)
   .filter((item) => item != null)
   .join(",\n")}
 }`;
-    case "technical":
-      return `@ARTICLE{${paper.id},
-${paperToBibtex(paper)
-  .filter((item) => item != null)
-  .join(",\n")}
-}`;
+    // case "technical":
+      // return `@ARTICLE{${paper.id},
+// ${paperToBibtex(paper)
+  // .filter((item) => item != null)
+  // .join(",\n")}
+// }`;
     case "conference":
       return `@INPROCEEDINGS{${paper.id},
 ${paperToBibtex(paper)
