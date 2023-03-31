@@ -1,5 +1,5 @@
 ---
-- id: Kim2023b
+- id: Kim2023FSE
   DOI: 
   author:
     - family: Kim
@@ -18,6 +18,26 @@
       given: Kui
     - family: Lo
       given: David
+  booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+  pdf: xxx
+  year: 2023 [Under Review]
+  serires: FSE
+  title: Double-blind
+
+---
+- id: Martin2023FSE
+  DOI: 
+  author:
+    - family: Weyssow
+      given: Martin
+    - family: Xin
+      given: Zhou
+    - family: Kim
+      given: Kisub
+    - family: Lo
+      given: David
+    - family: Sahraoui
+      given: Houari
   booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
   pdf: xxx
   year: 2023 [Under Review]
