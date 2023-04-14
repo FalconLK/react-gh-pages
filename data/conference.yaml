@@ -1,6 +1,6 @@
 ---
-- id: Kim2023FSE
-  DOI:
+- id: Kim2023b
+  DOI: 
   author:
     - family: Kim
       given: Kisub
@@ -20,77 +20,58 @@
       given: David
   booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
   pdf: xxx
-  year: 2023 [Under Review].
-  serires: FSE
-  title: Double-blind
-
-- id: Martin2023FSE
-  DOI:
-  author:
-    - family: Weyssow
-      given: Martin
-    - family: Xin
-      given: Zhou
-    - family: Kim
-      given: Kisub
-    - family: Lo
-      given: David
-    - family: Sahraoui
-      given: Houari
-  booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
-  pdf: xxx
-  year: 2023 [Under Review].
-  serires: FSE
-  title: Double-blind
-
-- id: Kim2023arXiv
-  DOI:
-  author:
-    - family: Kim
-      given: Kisub
-    - family: Thung
-      given: Ferdian
-    - family: Zhang
-      given: Ting
-    - family: Clairine Irsan
-      given: Ivana
-    - family: Widyasari
-      given: Ratnadira
-    - family: Yang
-      given: Zhou
-    - family: Lo
-      given: David
-  booktitle: arXiv
-  pdf: xxx
-  year: 2023
-  serires: arXiv
-  title: APISENS - Sentiment Scoring Tool for APIs with Crowd-Knowledge
-
-- id: Thung2023arXiv
-  DOI:
-  author:
-    - family: Thung
-      given: Ferdian
-    - family: Kim
-      given: Kisub
-    - family: Zhang
-      given: Ting
-    - family: Clairine Irsan
-      given: Ivana
-    - family: Widyasari
-      given: Ratnadira
-    - family: Yang
-      given: Zhou
-    - family: Lo
-      given: David
-  booktitle: arXiv
-  pdf: xxx
   year: 2023 [Under Review]
-  serires: arXiv
-  title: APIHarvest - Harvesting API Information from Various Online Sources
+  serires: FSE
+  title: Double-blind
+
+# - id: Kim2023a
+#   DOI: 
+#   author:
+#     - family: Kim
+#       given: Kisub
+#     - family: Thung
+#       given: Ferdian
+#     - family: Zhang
+#       given: Ting
+#     - family: Clairine Irsan
+#       given: Ivana
+#     - family: Widyasari
+#       given: Ratnadira
+#     - family: Yang
+#       given: Zhou
+#     - family: Lo
+#       given: David
+#   booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
+#   pdf: xxx
+#   year: 2023 [Under Review]
+#   serires: MSR
+#   title: Double-blind
+
+# - id: Thung2023a
+#   DOI: 
+#   author:
+#     - family: Thung
+#       given: Ferdian
+#     - family: Kim
+#       given: Kisub
+#     - family: Zhang
+#       given: Ting
+#     - family: Clairine Irsan
+#       given: Ivana
+#     - family: Widyasari
+#       given: Ratnadira
+#     - family: Yang
+#       given: Zhou
+#     - family: Lo
+#       given: David
+#   booktitle: Proceedings of the 20th International Conference on Mining Software Repositories (MSR)
+#   pdf: xxx
+#   year: 2023 [Under Review]
+#   serires: MSR
+#   title: Double-blind
 
 - id: Irsan2023b
-  DOI:
+  DOI: 
   author:
     - family: Irsan
       given: Ivana Clairine
@@ -108,7 +89,7 @@
   serires: MSR
   title: PICASO - Enhancing API Recommendations with Relevant Stack Overflow Posts
 
-- id: Xin2023ICPC
+- id: Xin2023a
   DOI: 
   author:
     - family: Zhou
