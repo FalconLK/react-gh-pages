@@ -1,23 +1,15 @@
 {
-  "files": {
-    "main.css": "/react-gh-pages/static/css/main.4a4137e4.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.07f3f1ca.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.07f3f1ca.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.5f906504.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.5f906504.js.map",
-    "static/css/2.b661b0ce.chunk.css": "/react-gh-pages/static/css/2.b661b0ce.chunk.css",
-    "static/js/2.d9724ae8.chunk.js": "/react-gh-pages/static/js/2.d9724ae8.chunk.js",
-    "static/js/2.d9724ae8.chunk.js.map": "/react-gh-pages/static/js/2.d9724ae8.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/2.b661b0ce.chunk.css.map": "/react-gh-pages/static/css/2.b661b0ce.chunk.css.map",
-    "static/css/main.4a4137e4.chunk.css.map": "/react-gh-pages/static/css/main.4a4137e4.chunk.css.map",
-    "static/js/2.d9724ae8.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.d9724ae8.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.5f906504.js",
-    "static/css/2.b661b0ce.chunk.css",
-    "static/js/2.d9724ae8.chunk.js",
-    "static/css/main.4a4137e4.chunk.css",
-    "static/js/main.07f3f1ca.chunk.js"
-  ]
+  "main.css": "/react-gh-pages/static/css/main.6a07343e.chunk.css",
+  "main.js": "/react-gh-pages/static/js/main.4fe6673b.chunk.js",
+  "main.js.map": "/react-gh-pages/static/js/main.4fe6673b.chunk.js.map",
+  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
+  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
+  "static/css/2.d3b20674.chunk.css": "/react-gh-pages/static/css/2.d3b20674.chunk.css",
+  "static/js/2.461a4c07.chunk.js": "/react-gh-pages/static/js/2.461a4c07.chunk.js",
+  "static/js/2.461a4c07.chunk.js.map": "/react-gh-pages/static/js/2.461a4c07.chunk.js.map",
+  "index.html": "/react-gh-pages/index.html",
+  "precache-manifest.27470ffd66befc155769708a50933fd5.js": "/react-gh-pages/precache-manifest.27470ffd66befc155769708a50933fd5.js",
+  "service-worker.js": "/react-gh-pages/service-worker.js",
+  "static/css/2.d3b20674.chunk.css.map": "/react-gh-pages/static/css/2.d3b20674.chunk.css.map",
+  "static/css/main.6a07343e.chunk.css.map": "/react-gh-pages/static/css/main.6a07343e.chunk.css.map"
 }
