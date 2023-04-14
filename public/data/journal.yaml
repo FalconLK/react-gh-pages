@@ -1,5 +1,5 @@
 ---
-- id: Sun2023
+- id: Sun2023TSE
   DOI: 
   author:
     - family: Sun
@@ -26,7 +26,7 @@
   title: A Pre-Trained BERT Model for Android Applications
   volume: "xx"
 
-- id: Zhou2023
+- id: Zhou2023TSE
   DOI: 
   author:
     - family: Zhou
@@ -53,7 +53,7 @@
   title: PatchZero - Zero-Shot Automatic Patch Correctness Assessment
   volume: "xx"
 
-- id: He2023
+- id: He2023TOSEM
   DOI: 
   author:
     - family: He
@@ -82,8 +82,8 @@
   title: Representation Learning for Stack Overflow Posts - How Far are We?
   volume: "xx"
 
-- id: Kim2022b
-  DOI: https://doi.org/10.1016/j.jss.2022.111300
+- id: Kim2022CSUR
+  DOI:
   author:
     - family: Kim
       given: Kisub
@@ -104,12 +104,12 @@
   journal: ACM Computing Surveys (CSUR)
   pdf: 
   issue: "xx"
-  year: 2022 [Under Review]
+  year: 2023 [Accepted]
   pages: xx-xx
   title: Big Code Search - a Bibliography
   volume: "xx"
 
-- id: Kim2022a
+- id: Kim2022JSS
   DOI: https://doi.org/10.1016/j.jss.2022.111300
   author:
     - family: Kim
@@ -136,7 +136,7 @@
   title: DigBug – Pre/Post-processing Operator Selection for Accurate Bug Localization
   volume: "189"
 
-- id: Yang2021
+- id: Yang2021EMSE
   DOI: https://doi.org/10.1007/s10664-021-10003-7
   author:
     - family: Yang 
@@ -167,7 +167,7 @@
   title: Where were the Repair Ingredients for Defects4j Bugs?
   volume: "26"
 
-- id: Sirres18
+- id: Sirres18EMSE
   DOI: https://doi.org/10.1145/3180155.3182513
   author:
     - family: Sirres
@@ -192,7 +192,7 @@
   title: Augmenting and Structuring User Queries to Support Efficient Free-Form Code Search
   volume: "23"
 
-- id: Lee2017
+- id: Lee2017KSII
   DOI: https://doi.org/10.3837/tiis.2017.02.035
   author:
     - family: Lee
@@ -217,7 +217,7 @@
   title: Extracting the Source Code Context to Predict Import Changes using GPES
   volume: "11"
 
-- id: Lee2016
+- id: Lee2016KSCI
   DOI: 10.9708/jksci.2016.21.8.065
   author:
     - family: Lee
