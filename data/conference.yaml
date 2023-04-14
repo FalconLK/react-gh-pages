@@ -1,3 +1,4 @@
+---
 - id: Kim2023FSE
   DOI:
   author:
@@ -43,50 +44,50 @@
   title: Double-blind
 
 - id: Kim2023arXiv
- DOI:
- author:
-   - family: Kim
-     given: Kisub
-   - family: Thung
-     given: Ferdian
-   - family: Zhang
-     given: Ting
-   - family: Clairine Irsan
-     given: Ivana
-   - family: Widyasari
-     given: Ratnadira
-   - family: Yang
-     given: Zhou
-   - family: Lo
-     given: David
- booktitle: arXiv
- pdf: xxx
- year: 2023
- serires: arXiv
- title: APISENS - Sentiment Scoring Tool for APIs with Crowd-Knowledge
+  DOI:
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Thung
+      given: Ferdian
+    - family: Zhang
+      given: Ting
+    - family: Clairine Irsan
+      given: Ivana
+    - family: Widyasari
+      given: Ratnadira
+    - family: Yang
+      given: Zhou
+    - family: Lo
+      given: David
+  booktitle: arXiv
+  pdf: xxx
+  year: 2023
+  serires: arXiv
+  title: APISENS - Sentiment Scoring Tool for APIs with Crowd-Knowledge
 
 - id: Thung2023arXiv
- DOI:
- author:
-   - family: Thung
-     given: Ferdian
-   - family: Kim
-     given: Kisub
-   - family: Zhang
-     given: Ting
-   - family: Clairine Irsan
-     given: Ivana
-   - family: Widyasari
-     given: Ratnadira
-   - family: Yang
-     given: Zhou
-   - family: Lo
-     given: David
- booktitle: arXiv
- pdf: xxx
- year: 2023 [Under Review]
- serires: arXiv
- title: APIHarvest - Harvesting API Information from Various Online Sources
+  DOI:
+  author:
+    - family: Thung
+      given: Ferdian
+    - family: Kim
+      given: Kisub
+    - family: Zhang
+      given: Ting
+    - family: Clairine Irsan
+      given: Ivana
+    - family: Widyasari
+      given: Ratnadira
+    - family: Yang
+      given: Zhou
+    - family: Lo
+      given: David
+  booktitle: arXiv
+  pdf: xxx
+  year: 2023 [Under Review]
+  serires: arXiv
+  title: APIHarvest - Harvesting API Information from Various Online Sources
 
 - id: Irsan2023b
   DOI:
