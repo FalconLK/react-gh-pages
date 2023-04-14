@@ -27,22 +27,16 @@
 - id: Martin2023FSE
   DOI:
   author:
-    - family: Kim
-      given: Kisub
+    - family: Weyssow
+      given: Martin
     - family: Xin
       given: Zhou
     - family: Kim
-      given: Dongsun
-    - family: Lee
-      given: Jaekwon
-    - family: Bissyandé
-      given: Tegawendé F.
-    - family: Klein
-      given: Jacques
-    - family: Liu
-      given: Kui
+      given: Kisub
     - family: Lo
       given: David
+    - family: Sahraoui
+      given: Houari
   booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
   pdf: xxx
   year: 2023 [Under Review]
