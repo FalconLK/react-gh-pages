@@ -19,7 +19,7 @@
     - family: Klein
       given: Jacques
   journal: Transactions on Software Engineering (TSE)
-  pdf: xxx
+  pdf: https://arxiv.org/pdf/2212.05976
   issue: "xx"
   year: 2023 [Under Review]
   pages: xx-xx
@@ -46,7 +46,7 @@
     - family: Lo
       given: David
   journal: Transactions on Software Engineering (TSE)
-  pdf: xxx
+  pdf: https://arxiv.org/pdf/2303.00202
   issue: "xx"
   year: 2023 [Under Review]
   pages: xx-xx
@@ -75,7 +75,7 @@
     - family: Lo
       given: David
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
-  pdf: xxx
+  pdf: https://arxiv.org/pdf/2303.06853
   issue: "xx"
   year: 2023 [Under Review]
   pages: xx-xx
@@ -102,9 +102,9 @@
     - family: Le Traon
       given: Yves
   journal: ACM Computing Surveys (CSUR)
-  pdf: 
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/CSUR2023.pdf
   issue: "xx"
-  year: 2023 [Accepted]
+  year: 2023 [Accepted, will be published]
   pages: xx-xx
   title: Big Code Search - a Bibliography
   volume: "xx"
