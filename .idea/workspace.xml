@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dcba998-a9b2-44ef-98cb-c19438dbb5c2" name="Changes" comment="" />
+    <list default="true" id="2dcba998-a9b2-44ef-98cb-c19438dbb5c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,7 @@
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/falcon/PycharmProjects/react-gh-pages/node_modules/prettier",
     "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/Users/falcon/PycharmProjects/react-gh-pages/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,6 +59,7 @@
       <updated>1681491782160</updated>
       <workItem from="1681491783852" duration="2498000" />
       <workItem from="1681494373439" duration="2995000" />
+      <workItem from="1682066095552" duration="1507000" />
     </task>
     <servers />
   </component>
