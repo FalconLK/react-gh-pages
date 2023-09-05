@@ -1,28 +1,139 @@
 ---
-- id: Kim2023FSE
-  DOI: 
+- id: Xin2024ICSE
+  DOI:
   author:
-    - family: Kim
+    - family: Zhou
+      given: Xin
+    - family: Kim*
       given: Kisub
-    - family: Xin
-      given: Zhou
-    - family: Kim
-      given: Dongsun
-    - family: Lee
-      given: Jaekwon
-    - family: Bissyandé
-      given: Tegawendé F.
-    - family: Klein
-      given: Jacques
-    - family: Liu
-      given: Kui
+    - family: Xu
+      given: Bowen
+    - family: Han
+      given: Donggyun
     - family: Lo
       given: David
-  booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
-  pdf: xxx
-  year: 2023 [Under Review]
-  serires: FSE
-  title: ---Double-blind---
+  booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
+  year: 2024 [Under Review]
+  serires: ICSE
+  title: Double-blind
+
+- id: Martin2024ICSE
+  DOI:
+  author:
+    - family: Weyssow
+      given: Martin
+    - family: Zhou
+      given: Xin
+    - family: Kim*
+      given: Kisub
+    - family: Lo
+      given: David
+    - family: Sahraoui
+      given: Houari
+  booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
+  year: 2024 [Under Review]
+  serires: ICSE
+  title: Double-blind
+
+- id: Junda2024ICSE
+  DOI:
+  author:
+    - family: He
+      given: Junda
+    - family: Yang
+      given: Zhou
+    - family: Shi
+      given: Jieke
+    - family: Yang
+      given: Chengran
+    - family: Kim
+      given: Kisub
+    - family: Xu
+      given: Bowen
+    - family: Zhou
+      given: Xin
+    - family: Lo
+      given: David
+  booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
+  year: 2024 [Under Review]
+  serires: ICSE
+  title: Double-blind
+
+- id: Shar2023ASE
+  DOI:
+  author:
+    - family: Lwin Khin
+      given: Shar
+    - family: Göknil
+      given: Arda
+    - family: Johannes Husom
+      given: Erik
+    - family: Sen
+      given: Sagar
+    - family: Naing Tun
+      given: Yan
+    - family: Kim*
+      given: Kisub
+  booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Shar.pdf
+  year: 2023 [Accepted, will be published]
+  serires: ASE
+  title: AutoConf - Automated Configuration of Unsupervised Learning Systems using Metamorphic Testing and Bayesian Optimization
+
+- id: Xin2023ASE
+  DOI:
+  author:
+    - family: Zhou
+      given: Xin
+    - family: Kim*
+      given: Kisub
+    - family: Xu
+      given: Bowen
+    - family: Liu
+      given: Jiakun
+    - family: Han
+      given: Donggyun
+    - family: Lo
+      given: David
+  booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Xin.pdf
+  year: 2023 [Accepted, will be published]
+  serires: ASE
+  title: The Devil is in the Tails - An Exploratory Study on Long-tailed Distributions in Software Engineering Datasets
+
+- id: Bowen2023ASE
+  DOI:
+  author:
+    - family: Xu
+      given: Bowen
+    - family: Nguyen
+      given: Thanh-Dat
+    - family: Le-Cong
+      given: Thanh
+    - family: Hoang
+      given: Thong
+    - family: Liu
+      given: Jiakun
+    - family: Kim
+      given: Kisub
+    - family: Gong
+      given: Chen
+    - family: Niu
+      given: Changan
+    - family: Wang
+      given: Chenyu
+    - family: Le
+      given: Bach
+    - family: Lo
+      given: David
+  booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Bowen.pdf
+  year: 2023 [Accepted, will be published]
+  serires: ASE
+  title: Are We Ready to Embrace Generative AI for Software Q&A?
 
 - id: Martin2023FSE
   DOI:
@@ -31,17 +142,17 @@
       given: Martin
     - family: Xin
       given: Zhou
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Lo
       given: David
     - family: Sahraoui
       given: Houari
   booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
-  pdf: xxx
-  year: 2023 [Under Review]
-  serires: FSE
-  title: ---Double-blind---
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/FSE2023.pdf
+  year: 2023 [Accepted, will be published]
+  serires: ESEC/FSE
+  title: On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code
 
 - id: Kim2023A
   DOI:

@@ -1,4 +1,33 @@
 ---
+- id: Kim2023TOSEM
+  DOI:
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Zhou
+      given: Xin
+    - family: Kim
+      given: Dongsun
+    - family: Lawall
+      given: Julia
+    - family: Liu
+      given: Kui
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+    - family: Lee
+      given: Jaekwon
+    - family: Lo
+      given: David
+  journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  pdf: https://arxiv.org/pdf/2308.12701.pdf
+  issue: "xx"
+  year: 2023
+  pages: xx-xx
+  title: How are We Detecting Inconsistent Method Names? An Empirical Study from Code Review Perspective
+  volume: "xx"
+
 - id: Sun2023TSE
   DOI: 
   author:
@@ -6,7 +35,7 @@
       given: Tiezhu
     - family: Allix
       given: Kevin
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Zhou
       given: Xin
@@ -21,7 +50,7 @@
   journal: Transactions on Software Engineering (TSE)
   pdf: https://arxiv.org/pdf/2212.05976
   issue: "x"
-  year: 2023 [Under Review]
+  year: 2023 [Accepted, will be published]
   pages: xx-xx
   title: A Pre-Trained BERT Model for Android Applications
   volume: "xx"
@@ -82,8 +111,8 @@
   title: Representation Learning for Stack Overflow Posts - How Far are We?
   volume: "xx"
 
-- id: Kim2022CSUR
-  DOI:
+- id: Kim2023CSUR
+  DOI: https://doi.org/10.1145/3604905
   author:
     - family: Kim
       given: Kisub
@@ -103,11 +132,11 @@
       given: Yves
   journal: ACM Computing Surveys (CSUR)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/CSUR2023.pdf
-  issue: "xx"
-  year: 2023 [Accepted, will be published]
-  pages: xx-xx
+  issue: "1"
+  year: 2023
+  pages: 1-49
   title: Big Code Search - a Bibliography
-  volume: "xx"
+  volume: "56"
 
 - id: Kim2022JSS
   DOI: https://doi.org/10.1016/j.jss.2022.111300
