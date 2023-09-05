@@ -28,33 +28,6 @@
   title: How are We Detecting Inconsistent Method Names? An Empirical Study from Code Review Perspective
   volume: "xx"
 
-- id: Sun2023TSE
-  DOI: 
-  author:
-    - family: Sun
-      given: Tiezhu
-    - family: Allix
-      given: Kevin
-    - family: Kim*
-      given: Kisub
-    - family: Zhou
-      given: Xin
-    - family: Kim
-      given: Dongsun
-    - family: Lo
-      given: David
-    - family: Bissyandé
-      given: Tegawendé F.
-    - family: Klein
-      given: Jacques
-  journal: Transactions on Software Engineering (TSE)
-  pdf: https://arxiv.org/pdf/2212.05976
-  issue: "x"
-  year: 2023 [Accepted, will be published]
-  pages: xx-xx
-  title: A Pre-Trained BERT Model for Android Applications
-  volume: "xx"
-
 - id: Zhou2023TSE
   DOI: 
   author:
@@ -109,6 +82,33 @@
   year: 2023 [Under Review]
   pages: xx-xx
   title: Representation Learning for Stack Overflow Posts - How Far are We?
+  volume: "xx"
+
+- id: Sun2023TSE
+  DOI: 
+  author:
+    - family: Sun
+      given: Tiezhu
+    - family: Allix
+      given: Kevin
+    - family: Kim
+      given: Kisub
+    - family: Zhou
+      given: Xin
+    - family: Kim
+      given: Dongsun
+    - family: Lo
+      given: David
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+  journal: Transactions on Software Engineering (TSE)
+  pdf: https://arxiv.org/pdf/2212.05976
+  issue: "x"
+  year: 2023 [Accepted, will be published]
+  pages: xx-xx
+  title: A Pre-Trained BERT Model for Android Applications
   volume: "xx"
 
 - id: Kim2023CSUR
