@@ -23,12 +23,12 @@
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
   pdf: https://arxiv.org/pdf/2308.12701.pdf
   issue: "xx"
-  year: 2023
+  year: 2023 [Under Review]
   pages: xx-xx
   title: How are We Detecting Inconsistent Method Names? An Empirical Study from Code Review Perspective
   volume: "xx"
 
-- id: Zhou2023TSE
+- id: Xin2023TSE
   DOI: 
   author:
     - family: Zhou
@@ -55,7 +55,7 @@
   title: PatchZero - Zero-Shot Automatic Patch Correctness Assessment
   volume: "xx"
 
-- id: He2023TOSEM
+- id: Junda2023TOSEM
   DOI: 
   author:
     - family: He
@@ -84,7 +84,7 @@
   title: Representation Learning for Stack Overflow Posts - How Far are We?
   volume: "xx"
 
-- id: Sun2023TSE
+- id: Tiezhu2023TSE
   DOI: 
   author:
     - family: Sun
@@ -111,7 +111,7 @@
   title: A Pre-Trained BERT Model for Android Applications
   volume: "xx"
 
-- id: Kim2023CSUR
+- id: Kisub2023CSUR
   DOI: https://doi.org/10.1145/3604905
   author:
     - family: Kim
@@ -138,7 +138,7 @@
   title: Big Code Search - a Bibliography
   volume: "56"
 
-- id: Kim2022JSS
+- id: Kisub2022JSS
   DOI: https://doi.org/10.1016/j.jss.2022.111300
   author:
     - family: Kim
@@ -165,7 +165,7 @@
   title: DigBug – Pre/Post-processing Operator Selection for Accurate Bug Localization
   volume: "189"
 
-- id: Yang2021EMSE
+- id: Deheng2021EMSE
   DOI: https://doi.org/10.1007/s10664-021-10003-7
   author:
     - family: Yang 
@@ -196,7 +196,7 @@
   title: Where were the Repair Ingredients for Defects4j Bugs?
   volume: "26"
 
-- id: Sirres18EMSE
+- id: Raphael18EMSE
   DOI: https://doi.org/10.1145/3180155.3182513
   author:
     - family: Sirres
@@ -221,7 +221,7 @@
   title: Augmenting and Structuring User Queries to Support Efficient Free-Form Code Search
   volume: "23"
 
-- id: Lee2017KSII
+- id: Jaekwon2017KSII
   DOI: https://doi.org/10.3837/tiis.2017.02.035
   author:
     - family: Lee
@@ -246,7 +246,7 @@
   title: Extracting the Source Code Context to Predict Import Changes using GPES
   volume: "11"
 
-- id: Lee2016KSCI
+- id: Yonghyeon2016KSCI
   DOI: 10.9708/jksci.2016.21.8.065
   author:
     - family: Lee
