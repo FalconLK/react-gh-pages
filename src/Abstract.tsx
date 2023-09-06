@@ -13,7 +13,7 @@ function Abstract() {
           </Figure>
         </Col>
         <Col>
-          <h2>Kisub Kim</h2>
+          <h2><strong>Kisub Kim</strong></h2>
           <h4>Research Scientist at Singapore Management University (SMU)</h4>
           I am a research scientist (postdoc) at{" "}
           <a href="https://www.smu.edu.sg">
