@@ -5,7 +5,7 @@
     - family: Zhou
       given: Xin
     - family: Kim*
-      given: Kisub
+      given: **Kisub**
     - family: Xu
       given: Bowen
     - family: Han
