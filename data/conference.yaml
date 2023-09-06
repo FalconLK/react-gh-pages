@@ -4,7 +4,7 @@
   author:
     - family: Zhou
       given: Xin
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Xu
       given: Bowen
@@ -25,7 +25,7 @@
       given: Martin
     - family: Zhou
       given: Xin
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Lo
       given: David
@@ -48,7 +48,7 @@
       given: Jieke
     - family: Yang
       given: Chengran
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Xu
       given: Bowen
@@ -88,7 +88,7 @@
   author:
     - family: Zhou
       given: Xin
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Xu
       given: Bowen
@@ -142,7 +142,7 @@
       given: Martin
     - family: Xin
       given: Zhou
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Lo
       given: David
@@ -177,7 +177,7 @@
   serires: arXiv
   title: APISENS- Sentiment Scoring Tool for APIs with Crowd-Knowledge
 
-- id: Thung2023A
+- id: Ferdian2023A
   DOI:
   author:
    - family: Thung
@@ -200,7 +200,7 @@
   serires: arXiv
   title: APIHarvest - Harvesting API Information from Various Online Sources
 
-- id: Irsan2023MSR
+- id: Ivana2023MSR
   DOI: 
   author:
     - family: Irsan
@@ -224,7 +224,7 @@
   author:
     - family: Zhou
       given: Xin
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Xu
       given: Bowen
@@ -240,7 +240,7 @@
   serires: ICPC
   title: Generation-based Code Review Automation - How Far Are We?
 
-- id: Irsan2023SANER
+- id: Ivana2023SANER
   DOI: 
   author:
     - family: Irsan
@@ -259,7 +259,7 @@
   serires: SANER
   title: Multi-source API Recommendation
 
-- id: Liu2020ICSE
+- id: Kui2020ICSE
   DOI: https://doi.org/10.1145/3377811.3380338
   author:
     - family: Liu
@@ -286,7 +286,7 @@
   serires: ICSE
   title: On the Efficiency of Test Suite based Program Repair - A Systematic Assessment of 16 Automated Repair Systems for Java Programs
 
-- id: Liu2019ICSE
+- id: Kui2019ICSE
   DOI: https://doi.org/10.1109/ICSE.2019.00019
   author:
     - family: Liu
@@ -311,7 +311,7 @@
   note: As one of the corresponding authors.
   title: Learning to spot and refactor inconsistent method names
 
-- id: Kim2018ICSE
+- id: Kisub2018ICSE
   DOI: https://doi.org/10.1145/3180155.3180187
   author:
     - family: Kim
@@ -334,7 +334,7 @@
   year: 2018
   title: FaCoY - A Code-to-Code Search Engine
 
-- id: Liu2018APSEC
+- id: Kui2018APSEC
   DOI: https://doi.org/10.1109/APSEC.2018.00085
   author:
     - family: Liu
@@ -354,7 +354,7 @@
   year: 2018
   title: LSRepair - Live Search of Fix Ingredients for Automated Program Repair
 
-- id: Lee2016CUTE
+- id: Jaekwon2016CUTE
   DOI: https://doi.org/10.1007/978-981-10-3023-9_142
   author:
     - family: Lee
@@ -367,7 +367,7 @@
   year: 2016
   title: A Distributed Survey Automation Based on a Customizable Form Template
 
-- id: Lee2016APIC
+- id: Jaekwon2016APIC
   DOI: 
   author:
     - family: Lee
@@ -385,7 +385,7 @@
   year: 2016
   title: GPES - Supporting Source Code Analysis by Extracting the Evolutionary History of Software Structure and Quality
 
-- id: Lee2016KCSE
+- id: Jaekwon2016KCSE
   DOI: 
   author:
     - family: Lee
@@ -398,7 +398,7 @@
   year: 2016
   title: Identifying a Component Co-usability using Similarity Metric
 
-- id: Lee2015KSCI
+- id: Yonghyeon2015KSCI
   DOI: 
   author:
     - family: Lee
