@@ -75,7 +75,7 @@
       given: Sagar
     - family: Naing Tun
       given: Yan
-    - family: Kim
+    - family: Kim*
       given: Kisub
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Shar.pdf
