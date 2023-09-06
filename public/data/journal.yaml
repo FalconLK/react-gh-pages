@@ -35,7 +35,7 @@
       given: Xin
     - family: Xu
       given: Bowen
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Han
       given: DongGyun
@@ -91,7 +91,7 @@
       given: Tiezhu
     - family: Allix
       given: Kevin
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Zhou
       given: Xin
