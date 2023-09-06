@@ -27,8 +27,8 @@ function Contact() {
       <h3>
         <FontAwesomeIcon icon={faInbox} /> Contact
       </h3>
-      <h4>Work: kisubkim{` [at] `}smu.edu.sg</h4>
-      <h4>Personal: falconlk00{` [at] `}gmail.com</h4>
+      <h4>Email: falconlk00{` [at] `}gmail.com</h4>
+      <h4>Skype/Teams: kisub{` [at] `}sas.upenn.edu</h4>
       <Button href="https://github.com/FalconLK" variant="outline-info">
         <FontAwesomeIcon icon={faGithub} /> Github
       </Button>{" "}
