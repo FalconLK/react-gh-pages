@@ -1,4 +1,27 @@
 ---
+- id: Xunzhu2024ICLR
+  DOI:
+  author:
+    - family: Tang
+      given: Xunzhu
+    - family: Chen
+      given: Zhenghan
+    - family: Kim*
+      given: Kisub
+    - family: Tian
+      given: Haoye
+    - family: Ezzini
+      given: Saad
+    - family: Klein
+      given: Jacques
+    - family: Bissyandé
+      given: Tegawendé F.
+  booktitle: The International Conference on Learning Representations (ICLR)
+  pdf: https://arxiv.org/pdf/2312.01241.pdf
+  year: 2024 [Under Review]
+  serires: ICLR
+  title: Double-blind
+
 - id: Xin2024ICSE
   DOI:
   author:
@@ -79,7 +102,7 @@
       given: Kisub
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Shar.pdf
-  year: 2023 [Accepted, will be published]
+  year: 2023
   serires: ASE
   title: AutoConf - Automated Configuration of Unsupervised Learning Systems using Metamorphic Testing and Bayesian Optimization
 
@@ -100,7 +123,7 @@
       given: David
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Xin.pdf
-  year: 2023 [Accepted, will be published]
+  year: 2023
   serires: ASE
   title: The Devil is in the Tails - An Exploratory Study on Long-tailed Distributions in Software Engineering Datasets
 
@@ -131,7 +154,7 @@
       given: David
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Bowen.pdf
-  year: 2023 [Accepted, will be published]
+  year: 2023
   serires: ASE
   title: Are We Ready to Embrace Generative AI for Software Q&A?
 
@@ -150,7 +173,7 @@
       given: Houari
   booktitle: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/FSE2023.pdf
-  year: 2023 [Accepted, will be published]
+  year: 2023
   serires: ESEC/FSE
   title: On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code
 
