@@ -1,3 +1,22 @@
+- id: Martin2024ICSE
+  DOI:
+  author:
+    - family: Weyssow
+      given: Martin
+    - family: Zhou
+      given: Xin
+    - family: Kim*
+      given: Kisub
+    - family: Lo
+      given: David
+    - family: Sahraoui
+      given: Houari
+  booktitle: The Mining Software Repositories (MSR)
+  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
+  year: 2024 [Under Review]
+  serires: ICSE
+  title: Double-blind
+
 ---
 - id: Xunzhu2024ICLR
   DOI:
@@ -37,28 +56,9 @@
       given: David
   booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
-  year: 2024 [Under Review]
+  year: 2024 [Accepted, will be published]
   serires: ICSE
-  title: Double-blind
-
-- id: Martin2024ICSE
-  DOI:
-  author:
-    - family: Weyssow
-      given: Martin
-    - family: Zhou
-      given: Xin
-    - family: Kim*
-      given: Kisub
-    - family: Lo
-      given: David
-    - family: Sahraoui
-      given: Houari
-  booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
-  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
-  year: 2024 [Under Review]
-  serires: ICSE
-  title: Double-blind
+  title: Out of Sight, Out of Mind - Better Automatic Vulnerability Repair by Broadening Input Ranges and Sources
 
 - id: Junda2024ICSE
   DOI:
@@ -81,9 +81,9 @@
       given: David
   booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
-  year: 2024 [Under Review]
+  year: 2024 [Accepted, will be published]
   serires: ICSE
-  title: Double-blind
+  title: Curiosity-Driven Testing for Sequential Decision-Making Process
 
 - id: Shar2023ASE
   DOI:
@@ -102,7 +102,7 @@
       given: Kisub
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Shar.pdf
-  year: 2023 [Accepted, will be published]
+  year: 2023
   serires: ASE
   title: AutoConf - Automated Configuration of Unsupervised Learning Systems using Metamorphic Testing and Bayesian Optimization
 
