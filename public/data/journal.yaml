@@ -1,4 +1,25 @@
 ---
+- id: Martin2024TOSEM
+  DOI:
+  author:
+    - family: Weyssow
+      given: Martin
+    - family: Zhou
+      given: Xin
+    - family: Kim
+      given: Kisub
+    - family: Lo
+      given: David
+    - family: Sahraoui
+      given: Houari
+  journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  pdf: https://arxiv.org/pdf/2308.10462.pdf
+  issue: "xx"
+  year: 2024 [Under Review]
+  pages: xx-xx
+  title: Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models
+  volume: "xx"
+
 - id: Kim2023TOSEM
   DOI:
   author:
@@ -66,7 +87,7 @@
       given: Bowen
     - family: Zhang
       given: Ting
-    - family: Kim
+    - family: Kim*
       given: Kisub
     - family: Yang
       given: Zhou

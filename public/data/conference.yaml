@@ -1,21 +1,29 @@
 ---
-- id: Martin2024ICSE
+- id: Xunzhu2024ICML
   DOI:
   author:
-    - family: Weyssow
-      given: Martin
-    - family: Zhou
-      given: Xin
+    - family: Tang
+      given: Xunzhu
+    - family: Chen
+      given: Zhenghan
     - family: Kim*
       given: Kisub
-    - family: Lo
-      given: David
-    - family: Sahraoui
-      given: Houari
-  booktitle: The Mining Software Repositories (MSR)
-  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
+    - family: Song
+      given: Yewei
+    - family: Tian
+      given: Haoye
+    - family: Ezzini
+      given: Saad
+    - family: Huang
+      given: Yongfeng
+    - family: Klein
+      given: Jacques
+    - family: Bissyandé
+      given: Tegawendé F.
+  booktitle: The International Conference on Learning Representations (ICLR)
+  pdf: https://arxiv.org/pdf/2402.02172.pdf
   year: 2024 [Under Review]
-  serires: ICSE
+  serires: ICML
   title: Double-blind
 
 - id: Xunzhu2024ICLR
@@ -71,7 +79,7 @@
       given: Jieke
     - family: Yang
       given: Chengran
-    - family: Kim*
+    - family: Kim
       given: Kisub
     - family: Xu
       given: Bowen
