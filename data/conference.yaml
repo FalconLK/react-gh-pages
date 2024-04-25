@@ -1,6 +1,4 @@
 ---
-bold:
-- Kisub
 - id: Xunzhu2024ICML
   DOI:
   author:
@@ -9,7 +7,7 @@ bold:
     - family: Chen
       given: Zhenghan
     - family: Kim*
-      given: Kisub
+      given: "<b>Kisub</b>"
     - family: Song
       given: Yewei
     - family: Tian

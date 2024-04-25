@@ -1,6 +1,4 @@
 ---
-bold:
-- Kisub
 - id: Martin2024TOSEM
   DOI:
   author:
@@ -9,7 +7,7 @@ bold:
     - family: Zhou
       given: Xin
     - family: Kim
-      given: Kisub
+      given: "<b>Kisub</b>"
     - family: Lo
       given: David
     - family: Sahraoui
