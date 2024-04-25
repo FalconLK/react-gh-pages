@@ -6,8 +6,8 @@
       given: Martin
     - family: Zhou
       given: Xin
-    - family: Kim
-      given: "<b>Kisub</b>"
+    - family: Kim**
+      given: Kisub
     - family: Lo
       given: David
     - family: Sahraoui
@@ -56,7 +56,7 @@
       given: Xin
     - family: Xu
       given: Bowen
-    - family: Kim*
+    - family: Kim**
       given: Kisub
     - family: Han
       given: DongGyun
@@ -87,7 +87,7 @@
       given: Bowen
     - family: Zhang
       given: Ting
-    - family: Kim*
+    - family: Kim**
       given: Kisub
     - family: Yang
       given: Zhou
@@ -112,7 +112,7 @@
       given: Tiezhu
     - family: Allix
       given: Kevin
-    - family: Kim*
+    - family: Kim**
       given: Kisub
     - family: Zhou
       given: Xin

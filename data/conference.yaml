@@ -6,8 +6,8 @@
       given: Xunzhu
     - family: Chen
       given: Zhenghan
-    - family: Kim*
-      given: "<b>Kisub</b>"
+    - family: Kim**
+      given: Kisub
     - family: Song
       given: Yewei
     - family: Tian
@@ -33,7 +33,7 @@
       given: Xunzhu
     - family: Chen
       given: Zhenghan
-    - family: Kim*
+    - family: Kim**
       given: Kisub
     - family: Tian
       given: Haoye
@@ -54,7 +54,7 @@
   author:
     - family: Zhou
       given: Xin
-    - family: Kim*
+    - family: Kim**
       given: Kisub
     - family: Xu
       given: Bowen
@@ -106,7 +106,7 @@
       given: Sagar
     - family: Naing Tun
       given: Yan
-    - family: Kim*
+    - family: Kim**
       given: Kisub
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Shar.pdf
@@ -119,7 +119,7 @@
   author:
     - family: Zhou
       given: Xin
-    - family: Kim*
+    - family: Kim**
       given: Kisub
     - family: Xu
       given: Bowen
@@ -255,7 +255,7 @@
   author:
     - family: Zhou
       given: Xin
-    - family: Kim*
+    - family: Kim**
       given: Kisub
     - family: Xu
       given: Bowen
