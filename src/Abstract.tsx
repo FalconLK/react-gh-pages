@@ -19,7 +19,8 @@ function Abstract() {
           <a href="https://www.smu.edu.sg">
             Singapore Management University (SMU)
           </a>
-          . My work is mainly related to Software Engineering, broadly source code analysis and, specifically, code search, bug localization, code review, and code representation under the supervision of{" "}
+          {/*. My work is mainly related to Software Engineering, broadly AI4SE and SE4AI. Specifically, I put my efforts on code generation, code search, bug localization, code review, and code representation under the supervision of{" "}*/}
+          . Within the dynamic landscape of Software Engineering, I navigate the fascinating realms of AI4SE and SE4AI. My focus encompasses the intricate domains of code generation, search, bug localization, review, and representation, all guided by the invaluable mentorship of {" "}.
           <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a>.
           Before joining SMU, I was a research associate at the{" "}
           <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>. I completed
