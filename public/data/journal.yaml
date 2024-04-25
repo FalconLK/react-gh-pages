@@ -1,4 +1,6 @@
 ---
+bold:
+- Kisub
 - id: Martin2024TOSEM
   DOI:
   author:
@@ -44,7 +46,7 @@
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
   pdf: https://arxiv.org/pdf/2308.12701.pdf
   issue: "xx"
-  year: 2023 [Under Review]
+  year: 2024 [Under Review]
   pages: xx-xx
   title: How are We Detecting Inconsistent Method Names? An Empirical Study from Code Review Perspective
   volume: "xx"
@@ -71,12 +73,12 @@
   journal: Transactions on Software Engineering (TSE)
   pdf: https://arxiv.org/pdf/2303.00202
   issue: "xx"
-  year: 2023 [Under Review]
+  year: 2024 [Under Review]
   pages: xx-xx
   title: PatchZero - Zero-Shot Automatic Patch Correctness Assessment
   volume: "xx"
 
-- id: Junda2023TOSEM
+- id: Junda2024TOSEM
   DOI: 
   author:
     - family: He
@@ -99,11 +101,11 @@
       given: David
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
   pdf: https://arxiv.org/pdf/2303.06853
-  issue: "xx"
-  year: 2023 [Accepted, will be published]
-  pages: xx-xx
+  issue: "3"
+  year: 2024
+  pages: 1-24
   title: Representation Learning for Stack Overflow Posts - How Far are We?
-  volume: "xx"
+  volume: "33"
 
 - id: Tiezhu2023TSE
   DOI: 
@@ -126,11 +128,11 @@
       given: Jacques
   journal: Transactions on Software Engineering (TSE)
   pdf: https://arxiv.org/pdf/2212.05976
-  issue: "x"
-  year: 2023 [Accepted, will be published]
-  pages: xx-xx
-  title: A Pre-Trained BERT Model for Android Applications
-  volume: "xx"
+  issue: "10"
+  year: 2023
+  pages: 4691-4706
+  title: DexBERT - Effective, Task-Agnostic and Fine-Grained Representation Learning of Android Bytecode
+  volume: "49"
 
 - id: Kisub2023CSUR
   DOI: https://doi.org/10.1145/3604905

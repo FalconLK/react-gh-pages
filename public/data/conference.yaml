@@ -1,4 +1,6 @@
 ---
+bold:
+- Kisub
 - id: Xunzhu2024ICML
   DOI:
   author:
@@ -64,7 +66,7 @@
       given: David
   booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
-  year: 2024 [Accepted, will be published]
+  year: 2024
   serires: ICSE
   title: Out of Sight, Out of Mind - Better Automatic Vulnerability Repair by Broadening Input Ranges and Sources
 
@@ -89,7 +91,7 @@
       given: David
   booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
   pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
-  year: 2024 [Accepted, will be published]
+  year: 2024
   serires: ICSE
   title: Curiosity-Driven Testing for Sequential Decision-Making Process
 
