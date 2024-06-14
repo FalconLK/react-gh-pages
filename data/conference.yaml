@@ -1,9 +1,61 @@
 ---
-- id: Xunzhu2024ICML
+- id: Kim2025ASE
+  DOI:
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Kim
+      given: Jonghoon
+    - family: Park
+      given: Byungjo
+    - family: Kim
+      given: Dongsun
+    - family: Chong
+      given: Chun Yong
+    - family: Wang
+      given: Yuan
+    - family: Sun
+      given: Tiezhu
+    - family: Tang
+      given: Daniel
+    - family: Klein
+      given: Jacques
+    - family: Bissyandé
+      given: Tegawendé F.
+  booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  pdf:
+  year: 2024 [Under Review]
+  serires: ASE
+  title: Double-blind
+
+- id: Xunzhu2025ICSE
   DOI:
   author:
     - family: Tang
-      given: Xunzhu
+      given: Daniel
+    - family: Kim
+      given: Kisub
+    - family: Ezzini
+      given: Saad
+    - family: Song
+      given: Yewei
+    - family: Tian
+      given: Haoye
+    - family: Klein
+      given: Jacques
+    - family: Bissyandé
+      given: Tegawendé F.
+  booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
+  pdf: https://arxiv.org/html/2312.01241v2
+  year: 2025 [Under Review]
+  serires: ICSE
+  title: Double-blind
+
+- id: Xunzhu2024EMNLP
+  DOI:
+  author:
+    - family: Tang
+      given: Daniel
     - family: Chen
       given: Zhenghan
     - family: Kim**
@@ -20,33 +72,10 @@
       given: Jacques
     - family: Bissyandé
       given: Tegawendé F.
-  booktitle: The International Conference on Learning Representations (ICLR)
-  pdf: https://arxiv.org/pdf/2402.02172.pdf
+  booktitle: The Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  pdf: https://arxiv.org/pdf/2402.02172
   year: 2024 [Under Review]
-  serires: ICML
-  title: Double-blind
-
-- id: Xunzhu2024ICLR
-  DOI:
-  author:
-    - family: Tang
-      given: Xunzhu
-    - family: Chen
-      given: Zhenghan
-    - family: Kim**
-      given: Kisub
-    - family: Tian
-      given: Haoye
-    - family: Ezzini
-      given: Saad
-    - family: Klein
-      given: Jacques
-    - family: Bissyandé
-      given: Tegawendé F.
-  booktitle: The International Conference on Learning Representations (ICLR)
-  pdf: https://arxiv.org/pdf/2312.01241.pdf
-  year: 2024 [Under Review]
-  serires: ICLR
+  serires: EMNLP
   title: Double-blind
 
 - id: Xin2024ICSE
