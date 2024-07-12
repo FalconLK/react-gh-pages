@@ -1,4 +1,29 @@
 ---
+- id: Tiezhu2024TOSEM
+  DOI:
+  author:
+    - family: Sun
+      given: Tiezhu
+    - family: Daoudi
+      given: Nadia
+    - family: Pian
+      given: Weiguo
+    - family: Kim**
+      given: Kisub
+    - family: Allix
+      given: Kevin
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+  journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  pdf: ...
+  issue: "xx"
+  year: 2024 [Under Review]
+  pages: xx-xx
+  title: TIML - Temporal-Incremental Malware Learning
+  volume: "xx"
+
 - id: Martin2024TOSEM
   DOI:
   author:
