@@ -24,32 +24,9 @@
       given: Tegawendé F.
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   pdf:
-  year: 2024 [Under Review]
+  year: 2024 [Just Accepted]
   serires: ASE
-  title: Double-blind
-
-- id: Xunzhu2025ICSE
-  DOI:
-  author:
-    - family: Tang
-      given: Daniel
-    - family: Kim
-      given: Kisub
-    - family: Ezzini
-      given: Saad
-    - family: Song
-      given: Yewei
-    - family: Tian
-      given: Haoye
-    - family: Klein
-      given: Jacques
-    - family: Bissyandé
-      given: Tegawendé F.
-  booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
-  pdf: https://arxiv.org/html/2312.01241v2
-  year: 2025 [Under Review]
-  serires: ICSE
-  title: Double-blind
+  title: DataRecipe --- How to Cook the Data for CodeLLM?
 
 - id: Xunzhu2024EMNLP
   DOI:

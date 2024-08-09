@@ -1,4 +1,60 @@
 ---
+- id: Kim2023TOSEM
+  DOI:
+  author:
+    - family: Kim
+      given: Kisub
+    - family: Zhou
+      given: Xin
+    - family: Kim
+      given: Dongsun
+    - family: Lawall
+      given: Julia
+    - family: Liu
+      given: Kui
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+    - family: Lee
+      given: Jaekwon
+    - family: Lo
+      given: David
+  journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  pdf: https://arxiv.org/pdf/2308.12701.pdf
+  issue: "xx"
+  year: 2024 [Under Review]
+  pages: xx-xx
+  title: How are We Detecting Inconsistent Method Names? An Empirical Study from Code Review Perspective
+  volume: "xx"
+
+- id: Xin2023TSE
+  DOI:
+  author:
+    - family: Zhou
+      given: Xin
+    - family: Xu
+      given: Bowen
+    - family: Kim**
+      given: Kisub
+    - family: Han
+      given: DongGyun
+    - family: Le Cong
+      given: Thanh
+    - family: He
+      given: Junda
+    - family: Le
+      given: Bach
+    - family: Lo
+      given: David
+  journal: Transactions on Software Engineering (TSE)
+  pdf: https://arxiv.org/pdf/2303.00202
+  issue: "xx"
+  year: 2024 [Under Review]
+  pages: xx-xx
+  title: PatchZero - Zero-Shot Automatic Patch Correctness Assessment
+  volume: "xx"
+
 - id: Tiezhu2024TOSEM
   DOI:
   author:
@@ -45,60 +101,29 @@
   title: Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models
   volume: "xx"
 
-- id: Kim2023TOSEM
+- id: Xunzhu2024TOSEM
   DOI:
   author:
+    - family: Tang
+      given: Daniel
     - family: Kim
       given: Kisub
-    - family: Zhou
-      given: Xin
-    - family: Kim
-      given: Dongsun
-    - family: Lawall
-      given: Julia
-    - family: Liu
-      given: Kui
-    - family: Bissyandé
-      given: Tegawendé F.
+    - family: Ezzini
+      given: Saad
+    - family: Song
+      given: Yewei
+    - family: Tian
+      given: Haoye
     - family: Klein
       given: Jacques
-    - family: Lee
-      given: Jaekwon
-    - family: Lo
-      given: David
+    - family: Bissyandé
+      given: Tegawendé F.
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
-  pdf: https://arxiv.org/pdf/2308.12701.pdf
+  pdf: https://arxiv.org/html/2312.01241v2
   issue: "xx"
   year: 2024 [Under Review]
   pages: xx-xx
-  title: How are We Detecting Inconsistent Method Names? An Empirical Study from Code Review Perspective
-  volume: "xx"
-
-- id: Xin2023TSE
-  DOI: 
-  author:
-    - family: Zhou
-      given: Xin
-    - family: Xu
-      given: Bowen
-    - family: Kim**
-      given: Kisub
-    - family: Han
-      given: DongGyun
-    - family: Le Cong
-      given: Thanh
-    - family: He
-      given: Junda
-    - family: Le
-      given: Bach
-    - family: Lo
-      given: David
-  journal: Transactions on Software Engineering (TSE)
-  pdf: https://arxiv.org/pdf/2303.00202
-  issue: "xx"
-  year: 2024 [Under Review]
-  pages: xx-xx
-  title: PatchZero - Zero-Shot Automatic Patch Correctness Assessment
+  title: Just-in-Time Detection of Silent Security Patches
   volume: "xx"
 
 - id: Junda2024TOSEM
