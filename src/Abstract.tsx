@@ -24,19 +24,18 @@ function Abstract() {
           My focus encompasses the intricate domains of source code generation, search, review, representation, and bug
           related tasks.
           Previously, I worked at {" "}
-          <a href="https://www.smu.edu.sg/"></a>
-          Singapore Management University (SMU) under supervision of {" "}
+          <a href="https://www.smu.edu.sg/">Singapore Management University (SMU)</a>
+          under supervision of {" "}
           <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a>.
           Before joining SMU, I was a research associate at the{" "}
-          <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>, the university that I completed
-          my Ph.D., under
-          the supervision of{" "}
+          <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>,
+          the university that I completed my Ph.D., under the supervision of{" "}
           <a href="https://bissyande.github.io/">
-            Prof. Tegawendé F. BISSYANDE
+          Prof. Tegawendé F. BISSYANDE
           </a>
           {" "} and {" "}
           <a href="https://www.darkrsw.net/">
-            Prof. Dongsun Kim
+          Prof. Dongsun Kim
           </a>
           .
           {"\n"}
