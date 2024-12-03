@@ -1,4 +1,12 @@
 ---
+- title: Senior Software Engineer
+  affiliation: Huawei Hong Kong Research Center
+  url: https://www.huawei.com/en/
+  city: Hong Kong
+  country: Hong Kong
+  begin:
+    month: Oct.
+    year: 2023
 - title: Research Scientist
   affiliation: Singapore Management University
   url: https://www.smu.edu.sg/
@@ -7,6 +15,9 @@
   begin:
     month: Dec.
     year: 2021
+  end:
+    month: Aug.
+    year: 2023
 - title: Research Associate
   affiliation: University of Luxembourg
   url: https://wwwen.uni.lu/
