@@ -23,7 +23,9 @@ function Abstract() {
           . Within the dynamic landscape of Software Engineering, I navigate the fascinating realms of AI4SE and SE4AI.
           My focus encompasses the intricate domains of source code generation, search, review, representation, and bug
           related tasks.
-          Previsouly, I worked at Singapore Management University (SMU) under supervision of {" "}
+          Previously, I worked at {" "}
+          <a href="https://www.smu.edu.sg/"></a>
+          Singapore Management University (SMU) under supervision of {" "}
           <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a>.
           Before joining SMU, I was a research associate at the{" "}
           <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>, the university that I completed
