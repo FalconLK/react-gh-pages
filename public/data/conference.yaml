@@ -23,8 +23,8 @@
     - family: Bissyandé
       given: Tegawendé F.
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
-  pdf:
-  year: 2024 [Just Accepted]
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3691620.3695593
+  year: 2024
   serires: ASE
   title: DataRecipe --- How to Cook the Data for CodeLLM?
 
@@ -33,27 +33,27 @@
   author:
     - family: Tang
       given: Daniel
-    - family: Chen
-      given: Zhenghan
-    - family: Kim**
+    - family: Kim
       given: Kisub
     - family: Song
       given: Yewei
-    - family: Tian
-      given: Haoye
+    - family: Lothritz
+      given: Cedric
+    - family: Li
+      given: Bei
     - family: Ezzini
       given: Saad
-    - family: Huang
-      given: Yongfeng
+    - family: Tian
+      given: Haoye
     - family: Klein
       given: Jacques
     - family: Bissyandé
       given: Tegawendé F.
   booktitle: The Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  pdf: https://arxiv.org/pdf/2402.02172
-  year: 2024 [Under Review]
+  pdf: https://aclanthology.org/2024.emnlp-main.632.pdf
+  year: 2024 [Just Accepted]
   serires: EMNLP
-  title: Double-blind
+  title: CodeAgent --- Autonomous Communicative Agents for Code Review
 
 - id: Xin2024ICSE
   DOI:
@@ -69,7 +69,7 @@
     - family: Lo
       given: David
   booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
-  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3597503.3639222
   year: 2024
   serires: ICSE
   title: Out of Sight, Out of Mind - Better Automatic Vulnerability Repair by Broadening Input Ranges and Sources
@@ -94,7 +94,7 @@
     - family: Lo
       given: David
   booktitle: IEEE/ACM International Conference on Software Engineering (ICSE)
-  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/xxx.pdf
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3597503.3639149
   year: 2024
   serires: ICSE
   title: Curiosity-Driven Testing for Sequential Decision-Making Process
@@ -115,7 +115,7 @@
     - family: Kim**
       given: Kisub
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
-  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Shar.pdf
+  pdf: https://ieeexplore.ieee.org/iel7/10298258/10298286/10298518.pdf
   year: 2023
   serires: ASE
   title: AutoConf - Automated Configuration of Unsupervised Learning Systems using Metamorphic Testing and Bayesian Optimization
@@ -136,7 +136,7 @@
     - family: Lo
       given: David
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
-  pdf: https://github.com/FalconLK/react-gh-pages/raw/master/pdf/ASE2023_Xin.pdf
+  pdf: https://ieeexplore.ieee.org/iel7/10298258/10298286/10298393.pdf
   year: 2023
   serires: ASE
   title: The Devil is in the Tails - An Exploratory Study on Long-tailed Distributions in Software Engineering Datasets
