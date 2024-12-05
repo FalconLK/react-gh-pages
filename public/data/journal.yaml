@@ -6,7 +6,7 @@
       given: Martin
     - family: Zhou
       given: Xin
-    - family: Kim**
+    - family: <b>Kim**</b>
       given: Kisub
     - family: Lo
       given: David
@@ -121,7 +121,7 @@
   journal: Transactions on Software Engineering (TSE)
   pdf: https://arxiv.org/pdf/2303.00202
   issue: "11"
-  year: 2024 [Just Accepted]
+  year: 2024
   pages: 2865-2883
   title: Leveraging Large Language Model for Automatic Patch Correctness Assessment
   volume: "50"
