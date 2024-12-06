@@ -40,6 +40,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/falcon/PycharmProjects/react-gh-pages/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -80,7 +81,8 @@
       <workItem from="1721442506722" duration="91000" />
       <workItem from="1722328723932" duration="173000" />
       <workItem from="1723110857301" duration="2055000" />
-      <workItem from="1733195103722" duration="5656000" />
+      <workItem from="1733195103722" duration="8378000" />
+      <workItem from="1733387563992" duration="643000" />
     </task>
     <servers />
   </component>
