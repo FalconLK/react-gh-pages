@@ -15,9 +15,38 @@
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
   pdf: https://arxiv.org/pdf/2308.10462.pdf
   issue: "xx"
-  year: 2024 [Under Review]
+  year: 2024 [Just Accepted]
   pages: xx-xx
   title: Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models
+  volume: "xx"
+
+- id: Xunzhu2024EMSE
+  DOI:
+  author:
+    - family: Tang
+      given: Xunzhu
+    - family: Tian
+      given: Haoye
+    - family: Pian
+      given: Weiguo
+    - family: Ezzini
+      given: Saad
+    - family: Kabore
+      given: Abdoul Kader
+    - family: Habib
+      given: Andrew
+    - family: Kim
+      given: Kisub
+    - family: Klein
+      given: Jacques
+    - family: Bissyandé
+      given: Tegawendé F.
+  journal: Empirical Software Engineering
+  pdf: ...
+  issue: "xx"
+  year: 2025 [Under Review]
+  pages: xx-xx
+  title: Learning to Represent Code Changes
   volume: "xx"
 
 - id: Xunzhu2024TOSEM
@@ -40,7 +69,7 @@
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
   pdf: https://arxiv.org/html/2312.01241v2
   issue: "xx"
-  year: 2024 [Under Review]
+  year: 2025 [Under Review]
   pages: xx-xx
   title: Just-in-Time Detection of Silent Security Patches
   volume: "xx"
