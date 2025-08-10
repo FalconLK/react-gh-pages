@@ -67,9 +67,9 @@
     - family: Sahraoui
       given: Houari
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
-  pdf: https://arxiv.org/pdf/2308.10462.pdf
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3714461
   issue: "xx"
-  year: 2024 [Just Accepted]
+  year: 2025
   pages: xx-xx
   title: Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models
   volume: "xx"
@@ -96,12 +96,12 @@
     - family: Lo
       given: David
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
-  pdf: https://arxiv.org/pdf/2308.12701.pdf
-  issue: "xx"
-  year: 2025 [Just Accepted]
-  pages: xx-xx
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3711901
+  issue: "6"
+  year: 2025
+  pages: 1-27
   title: How are We Detecting Inconsistent Method Names? An Empirical Study from Code Review Perspective
-  volume: "xx"
+  volume: "34"
 
 - id: Tiezhu2024TOSEM
   DOI:
@@ -122,11 +122,11 @@
       given: Jacques
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
   pdf: https://dl.acm.org/doi/pdf/10.1145/3702990
-  issue: "xx"
-  year: 2024 [Just Accepted]
-  pages: xx-xx
+  issue: "4"
+  year: 2025
+  pages: 1-30
   title: Temporal-Incremental Learning for Android Malware Detection
-  volume: "xx"
+  volume: "34"
 
 - id: Xin2023TSE
   DOI:
@@ -148,7 +148,7 @@
     - family: Lo
       given: David
   journal: Transactions on Software Engineering (TSE)
-  pdf: https://arxiv.org/pdf/2303.00202
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10659742
   issue: "11"
   year: 2024
   pages: 2865-2883
