@@ -1,5 +1,5 @@
 import Container from "react-bootstrap/Container";
-import Abstract from "./Abstract";
+import Abstract from "./Abstract_HKRC";
 import Publications from "./Publications";
 import WorkExperience from "./Work";
 import Education from "./Education";

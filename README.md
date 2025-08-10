@@ -17,7 +17,7 @@ Then, it will be automatically rendered in the homepage.
 
 ### Update bio info
 
-Please update `src/Abstract.tsx` with your bio.
+Please update `src/Abstract_HKRC.tsx` with your bio.
 
 ### Update Contact and CV info
 

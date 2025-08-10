@@ -12,44 +12,47 @@ function Abstract() {
             <Figure.Image width={200} alt="Kisub Kim" src="./profile.jpeg" />
           </Figure>
         </Col>
-        <Col>
-          <h2><strong>Kisub Kim</strong></h2>
-          <h4>Senior Software Engineer at Huawei Hong Kong Research Center (HKRC)</h4>
-          I am a senior software engineer at {" "}
-          <a href="https://huawei.com/en">
-            Huawei Hong Kong Research Center (HKRC)
-          </a>
-          {/*. My work is mainly related to Software Engineering, broadly AI4SE and SE4AI. Specifically, I put my efforts on code generation, code search, bug localization, code review, and code representation under the supervision of{" "}*/}
-          . Within the dynamic landscape of Software Engineering, I navigate the fascinating realms of AI4SE and SE4AI.
-          My focus encompasses the intricate domains of source code generation, search, review, representation, and bug
-          related tasks.
-          Previously, I worked at {" "}
-          <a href="https://www.smu.edu.sg/">Singapore Management University (SMU)</a>
-          under supervision of {" "}
-          <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a>.
-          Before joining SMU, I was a research associate at the{" "}
-          <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>,
-          the university that I completed my Ph.D., under the supervision of{" "}
-          <a href="https://bissyande.github.io/">
-          Prof. Tegawendé F. BISSYANDE
-          </a>
-          {" "} and {" "}
-          <a href="https://www.darkrsw.net/">
-          Prof. Dongsun Kim
-          </a>
-          .
-          {"\n"}
-          {/*My works were presented at major conferences such as <b>International Conference on Software Engineering (ICSE)</b> and published in top journals such as <b>Empirical Software Engineering (EMSE)</b>.*/}
-          {/*I have served as a reviewer, program committee, and organization committee in various software engineering conferences and journals, such as <b>Transactions on Software Engineering (TSE)</b> and <b>International Conference on Program Comprehension (ICPC)</b>.*/}
-          My research has been showcased at prestigious conferences like the <b>International Conference on Software
-          Engineering (ICSE)</b> and featured in esteemed journals such as <b>Empirical Software Engineering (EMSE)</b>.
-          Additionally, I've contributed to the scholarly community by fulfilling roles as a reviewer, program committee
-          member, and organizer for prominent software engineering conferences and journals, including <b>Transactions
-          on Software Engineering (TSE)</b> and <b>International Conference on Program Comprehension (ICPC)</b>.
-        </Col>
+          <Col>
+              <h2><strong>Kisub Kim</strong></h2>
+              <h4>Assistant Professor at DGIST, Korea</h4>
+              I am an assistant professor at {" "}
+              <a href="https://www.dgist.ac.kr">
+                  DGIST
+              </a>
+              {/*. My work is mainly related to Software Engineering, broadly AI4SE and SE4AI. Specifically, I put my efforts on code generation, code search, bug localization, code review, and code representation under the supervision of{" "}*/}
+              . Within the dynamic landscape of Software Engineering, I navigate the fascinating realms of AI4SE, SE4AI,
+              and Data4AI.
+              My focus encompasses the intricate domains of source code generation, search, review, representation, and
+              bug
+              related tasks.
+              Previously, I worked at {" "}
+              <a href="https://huawei.com/en">Huawei Hong Kong Research Center (HKRC)</a>.
+              I also worked for
+              <a href="https://www.smu.edu.sg/">Singapore Management University (SMU)</a>
+              under supervision of {" "}
+              <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a>.
+              Before joining SMU, I was a research associate at the{" "}
+              <a href="https://wwwen.uni.lu/">University of Luxembourg (UL)</a>,
+              the university that I completed my Ph.D., under the supervision of{" "}
+              <a href="https://bissyande.github.io/">
+                  Prof. Tegawendé F. BISSYANDE
+              </a>
+              {" "} and {" "}
+              <a href="https://www.darkrsw.net/">
+                  Prof. Dongsun Kim
+              </a>
+              .
+              {"\n"}
+              {/*My works were presented at major conferences such as <b>International Conference on Software Engineering (ICSE)</b> and published in top journals such as <b>Empirical Software Engineering (EMSE)</b>.*/}
+              {/*I have served as a reviewer, program committee, and organization committee in various software engineering conferences and journals, such as <b>Transactions on Software Engineering (TSE)</b> and <b>International Conference on Program Comprehension (ICPC)</b>.*/}
+              My research has been showcased at prestigious conferences like the <b>International Conference on Software
+              Engineering (ICSE)</b> and featured in esteemed journals such as <b>ACM Computing Surveys (CSUR)</b>.
+              Additionally, I've contributed to the scholarly community by fulfilling roles as a reviewer, program committee member, and organizer for prominent software engineering conferences and journals, including <b>Transactions
+              on Software Engineering (TSE)</b> and <b>International Conference on Program Comprehension (ICPC)</b>.
+          </Col>
       </Row>
     </Container>
-);
+  );
 }
 
 export default Abstract;
