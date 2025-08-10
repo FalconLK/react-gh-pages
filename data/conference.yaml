@@ -179,7 +179,7 @@
       given: Martin
     - family: Xin
       given: Zhou
-    - family: Kim*
+    - family: Kim**
       given: Kisub
     - family: Lo
       given: David
