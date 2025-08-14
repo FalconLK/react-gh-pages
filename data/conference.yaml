@@ -1,15 +1,40 @@
 ---
+- id: Xin2025ASE
+  DOI:
+  author:
+    - family: Zhou
+      given: Xin
+    - family: Kim**
+      given: Kisub
+    - family: Zhang
+      given: Ting
+    - family: Weyssow
+      given: Martin
+    - family: Gomes
+      given: Luis F.
+    - family: Yang
+      given: Guang
+    - family: Liu
+      given: Kui
+    - family: Xia
+      given: Xin
+    - family: Lo
+      given: David
+  booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  year: 2025 [Under Review]
+  serires: ASE
+  title: Double-blind
+
 - id: Martin2025ECAI
   DOI:
   author:
-    - family: Martin
-      given: Garaj
-    - family: Kim
-      given: Kisub**
-    - family: Alexis
-      given: Stockinger
+    - family: Garaj
+      given: Martin
+    - family: Kim**
+      given: Kisub
+    - family: Stockinger
+      given: Alexis
   booktitle: European Conference on Artificial Intelligence
-  pdf: 
   year: 2025 [Just Accepted]
   serires: ECAI
   title: Investigating sparsity of self-attention
