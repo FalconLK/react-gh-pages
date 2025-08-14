@@ -1,4 +1,19 @@
 ---
+- id: Martin2025ECAI
+  DOI:
+  author:
+    - family: Martin
+      given: Garaj
+    - family: Kim
+      given: Kisub**
+    - family: Alexis
+      given: Stockinger
+  booktitle: European Conference on Artificial Intelligence
+  pdf: 
+  year: 2025 [Just Accepted]
+  serires: ECAI
+  title: Investigating sparsity of self-attention
+
 - id: Kim2024ASE
   DOI:
   author:
