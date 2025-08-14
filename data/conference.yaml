@@ -1,4 +1,21 @@
 ---
+- id: Yun2025ASE
+  DOI:
+  author:
+    - family: Peng
+      given: Yun
+    - family: Kim**
+      given: Kisub
+    - family: Meng
+      given: Linghan
+    - family: Liu
+      given: Kui
+  booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  pdf: ...
+  year: 2025 [Under Review]
+  serires: ASE
+  title: Double-blind
+
 - id: Xin2025ASE
   DOI:
   author:
@@ -21,6 +38,7 @@
     - family: Lo
       given: David
   booktitle: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  pdf: ...
   year: 2025 [Under Review]
   serires: ASE
   title: Double-blind
@@ -35,9 +53,35 @@
     - family: Stockinger
       given: Alexis
   booktitle: European Conference on Artificial Intelligence
+  pdf: ...
   year: 2025 [Just Accepted]
   serires: ECAI
   title: Investigating sparsity of self-attention
+
+- id: Tiezhu2025ASE_NIER
+  DOI:
+  author:
+    - family: Sun
+      given: Tiezhu
+    - family: Alecci
+      given: Marco
+    - family: Song
+      given: Yewei
+    - family: Tang
+      given: Xunzhu
+    - family: Kim
+      given: Kisub
+    - family: Samhi
+      given: Jordan
+    - family: Bissyandé
+      given: Tegawendé F.
+    - family: Klein
+      given: Jacques
+  booktitle: IEEE/ACM International Conference on Automated Software Engineering
+  pdf: ...
+  year: 2025 [Just Accepted]
+  serires: ASE
+  title: RAML --- Toward Retrieval-augmented Localization of Malicious Payloads in Android Apps
 
 - id: Kim2024ASE
   DOI:

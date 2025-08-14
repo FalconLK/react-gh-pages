@@ -14,18 +14,35 @@
       given: Abdoul Kader
     - family: Habib
       given: Andrew
-    - family: Kim
+    - family: Kim**
       given: Kisub
     - family: Klein
       given: Jacques
     - family: Bissyandé
       given: Tegawendé F.
-  journal: Empirical Software Engineering
+  journal: Empirical Software Engineering (EMSE)
   pdf: ...
+  issue: "xx"
+  year: 2025 [Just Accepted]
+  pages: xx-xx
+  title: Learning to Represent Code Changes
+  volume: "xx"
+
+- id: Taeyoung2025JSS
+  DOI:
+  author:
+    - family: Kim
+      given: Taeyoung
+    - family: Kim**
+      given: Kisub
+    - family: Jo
+      given: Kwanjun
+  journal: The Journal of Software Systems (JSS)
+  pdf:
   issue: "xx"
   year: 2025 [Under Review]
   pages: xx-xx
-  title: Learning to Represent Code Changes
+  title: Automating Requirement-to-Specification Traceability Recovery in Weapon Systems via Domain-Adapted Pretrained Models
   volume: "xx"
 
 - id: Xunzhu2024TOSEM
@@ -48,7 +65,7 @@
   journal: ACM Transactions on Software Engineering and Methodology (TOSEM)
   pdf: https://arxiv.org/html/2312.01241v2
   issue: "xx"
-  year: 2025 [Under Review]
+  year: 2025 [Just Accepted]
   pages: xx-xx
   title: Just-in-Time Detection of Silent Security Patches
   volume: "xx"
